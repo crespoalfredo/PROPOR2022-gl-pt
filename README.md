@@ -1,4 +1,4 @@
-# Target Syntactic Evaluation for Galician-Portuguese (PROPOR 2022)
+# Targeted Syntactic Evaluation for Galician-Portuguese (PROPOR 2022)
 This repositotory contains the datasets and scripts of the paper _A Targeted Assessment of the Syntactic Abilities
 of Transformer Models for Galician-Portuguese_, to be presented at the [PROPOR 2022](https://sites.universidadedefortaleza.com/propor2022/) Conference.
 
