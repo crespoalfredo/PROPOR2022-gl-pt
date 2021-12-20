@@ -1,0 +1,1296 @@
+Cociñei o peixe para o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Cociñei o peixe para o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Cociñei o peixe para o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Cociñou o peixe para o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Cociñou o peixe para o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Cociñou o peixe para o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Cociñarei o peixe para o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Cociñarei o peixe para o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Cociñarei o peixe para o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Cociñará o peixe para o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Cociñará o peixe para o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Cociñará o peixe para o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Cociñei o peixe para * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Cociñei o peixe para * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Cociñei o peixe para * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Cociñou o peixe para * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Cociñou o peixe para * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Cociñou o peixe para * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Cociñarei o peixe para * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Cociñarei o peixe para * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Cociñarei o peixe para * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Cociñará o peixe para * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Cociñará o peixe para * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Cociñará o peixe para * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Cociñei o peixe no forno para mañá pola tarde o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Cociñei o peixe no forno para mañá pola tarde o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Cociñei o peixe no forno para mañá pola tarde o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Cociñou o peixe no forno para mañá pola tarde o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Cociñou o peixe no forno para mañá pola tarde o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Cociñou o peixe no forno para mañá pola tarde o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Cociñarei o peixe no forno para mañá pola tarde o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Cociñarei o peixe no forno para mañá pola tarde o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Cociñarei o peixe no forno para mañá pola tarde o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Cociñará o peixe no forno para mañá pola tarde o comeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Cociñará o peixe no forno para mañá pola tarde o comermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Cociñará o peixe no forno para mañá pola tarde o comeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Cociñei o peixe no forno para mañá pola tarde * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Cociñei o peixe no forno para mañá pola tarde * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Cociñei o peixe no forno para mañá pola tarde * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Cociñou o peixe no forno para mañá pola tarde * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Cociñou o peixe no forno para mañá pola tarde * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Cociñou o peixe no forno para mañá pola tarde * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Cociñarei o peixe no forno para mañá pola tarde * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Cociñarei o peixe no forno para mañá pola tarde * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Cociñarei o peixe no forno para mañá pola tarde * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Cociñará o peixe no forno para mañá pola tarde * o comeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Cociñará o peixe no forno para mañá pola tarde * o comermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Cociñará o peixe no forno para mañá pola tarde * o comeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Organicei as cousas antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Organicei as cousas antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Organicei as cousas antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Organizou as cousas antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Organizou as cousas antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Organizou as cousas antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Organizarei as cousas antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Organizarei as cousas antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Organizarei as cousas antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Organizará as cousas antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Organizará as cousas antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Organizará as cousas antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Organicei as cousas antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Organicei as cousas antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Organicei as cousas antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Organizou as cousas antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Organizou as cousas antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Organizou as cousas antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Organizarei as cousas antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Organizarei as cousas antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Organizarei as cousas antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Organizará as cousas antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Organizará as cousas antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Organizará as cousas antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Organicei esta tarde as miñas cousas persoais antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Organicei esta tarde as miñas cousas persoais antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Organicei esta tarde as miñas cousas persoais antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Organizou esta tarde as miñas cousas persoais antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Organizou esta tarde as miñas cousas persoais antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Organizou esta tarde as miñas cousas persoais antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Organizarei esta tarde as miñas cousas persoais antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Organizarei esta tarde as miñas cousas persoais antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Organizarei esta tarde as miñas cousas persoais antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Organizará esta tarde as miñas cousas persoais antes de chegares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Organizará esta tarde as miñas cousas persoais antes de chegarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Organizará esta tarde as miñas cousas persoais antes de chegaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Organicei esta tarde as miñas cousas persoais antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Organicei esta tarde as miñas cousas persoais antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Organicei esta tarde as miñas cousas persoais antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Organizou esta tarde as miñas cousas persoais antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Organizou esta tarde as miñas cousas persoais antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Organizou esta tarde as miñas cousas persoais antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Organizarei esta tarde as miñas cousas persoais antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Organizarei esta tarde as miñas cousas persoais antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Organizarei esta tarde as miñas cousas persoais antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Organizará esta tarde as miñas cousas persoais antes de * chegares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Organizará esta tarde as miñas cousas persoais antes de * chegarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Organizará esta tarde as miñas cousas persoais antes de * chegaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Limpei o cuarto para o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Limpei o cuarto para o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Limpei o cuarto para o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Limpou o cuarto para o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Limpou o cuarto para o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Limpou o cuarto para o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Limparei o cuarto para o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Limparei o cuarto para o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Limparei o cuarto para o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Limpará o cuarto para o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Limpará o cuarto para o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Limpará o cuarto para o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Limpei o cuarto para * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Limpei o cuarto para * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Limpei o cuarto para * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Limpou o cuarto para * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Limpou o cuarto para * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Limpou o cuarto para * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Limparei o cuarto para * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Limparei o cuarto para * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Limparei o cuarto para * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Limpará o cuarto para * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Limpará o cuarto para * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Limpará o cuarto para * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Limpei o cuarto con lixivia para mañá pola tarde o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Limpei o cuarto con lixivia para mañá pola tarde o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Limpei o cuarto con lixivia para mañá pola tarde o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Limpou o cuarto con lixivia para mañá pola tarde o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Limpou o cuarto con lixivia para mañá pola tarde o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Limpou o cuarto con lixivia para mañá pola tarde o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Limparei o cuarto con lixivia para mañá pola tarde o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Limparei o cuarto con lixivia para mañá pola tarde o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Limparei o cuarto con lixivia para mañá pola tarde o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Limpará o cuarto con lixivia para mañá pola tarde o ocupares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Limpará o cuarto con lixivia para mañá pola tarde o ocuparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Limpará o cuarto con lixivia para mañá pola tarde o ocuparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Limpei o cuarto con lixivia para mañá pola tarde * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Limpei o cuarto con lixivia para mañá pola tarde * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Limpei o cuarto con lixivia para mañá pola tarde * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Limpou o cuarto con lixivia para mañá pola tarde * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Limpou o cuarto con lixivia para mañá pola tarde * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Limpou o cuarto con lixivia para mañá pola tarde * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Limparei o cuarto con lixivia para mañá pola tarde * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Limparei o cuarto con lixivia para mañá pola tarde * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Limparei o cuarto con lixivia para mañá pola tarde * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Limpará o cuarto con lixivia para mañá pola tarde * o ocupares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Limpará o cuarto con lixivia para mañá pola tarde * o ocuparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Limpará o cuarto con lixivia para mañá pola tarde * o ocuparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Inventei unha canción para a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Inventei unha canción para a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Inventei unha canción para a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Inventou unha canción para a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Inventou unha canción para a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Inventou unha canción para a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Inventarei unha canción para a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Inventarei unha canción para a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Inventarei unha canción para a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Inventará unha canción para a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Inventará unha canción para a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Inventará unha canción para a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Inventei unha canción para * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Inventei unha canción para * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Inventei unha canción para * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Inventou unha canción para * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Inventou unha canción para * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Inventou unha canción para * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Inventarei unha canción para * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Inventarei unha canción para * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Inventarei unha canción para * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Inventará unha canción para * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Inventará unha canción para * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Inventará unha canción para * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Inventei unha canción sobre a guerra para mañá pola tarde a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Inventei unha canción sobre a guerra para mañá pola tarde a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Inventei unha canción sobre a guerra para mañá pola tarde a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Inventou unha canción sobre a guerra para mañá pola tarde a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Inventou unha canción sobre a guerra para mañá pola tarde a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Inventou unha canción sobre a guerra para mañá pola tarde a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Inventarei unha canción sobre a guerra para mañá pola tarde a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Inventarei unha canción sobre a guerra para mañá pola tarde a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Inventarei unha canción sobre a guerra para mañá pola tarde a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Inventará unha canción sobre a guerra para mañá pola tarde a escoitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Inventará unha canción sobre a guerra para mañá pola tarde a escoitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Inventará unha canción sobre a guerra para mañá pola tarde a escoitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Inventei unha canción sobre a guerra para mañá pola tarde * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Inventei unha canción sobre a guerra para mañá pola tarde * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Inventei unha canción sobre a guerra para mañá pola tarde * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Inventou unha canción sobre a guerra para mañá pola tarde * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Inventou unha canción sobre a guerra para mañá pola tarde * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Inventou unha canción sobre a guerra para mañá pola tarde * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Inventarei unha canción sobre a guerra para mañá pola tarde * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Inventarei unha canción sobre a guerra para mañá pola tarde * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Inventarei unha canción sobre a guerra para mañá pola tarde * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Inventará unha canción sobre a guerra para mañá pola tarde * a escoitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Inventará unha canción sobre a guerra para mañá pola tarde * a escoitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Inventará unha canción sobre a guerra para mañá pola tarde * a escoitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Comprei un xogo para o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Comprei un xogo para o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Comprei un xogo para o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Comprou un xogo para o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Comprou un xogo para o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Comprou un xogo para o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Comprarei un xogo para o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Comprarei un xogo para o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Comprarei un xogo para o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Comprará un xogo para o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Comprará un xogo para o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Comprará un xogo para o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Comprei un xogo para * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Comprei un xogo para * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Comprei un xogo para * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Comprou un xogo para * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Comprou un xogo para * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Comprou un xogo para * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Comprarei un xogo para * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Comprarei un xogo para * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Comprarei un xogo para * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Comprará un xogo para * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Comprará un xogo para * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Comprará un xogo para * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Comprei un xogo parecido ao parchís para mañá pola tarde o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Comprei un xogo parecido ao parchís para mañá pola tarde o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Comprei un xogo parecido ao parchís para mañá pola tarde o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Comprou un xogo parecido ao parchís para mañá pola tarde o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Comprou un xogo parecido ao parchís para mañá pola tarde o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Comprou un xogo parecido ao parchís para mañá pola tarde o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Comprarei un xogo parecido ao parchís para mañá pola tarde o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Comprarei un xogo parecido ao parchís para mañá pola tarde o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Comprarei un xogo parecido ao parchís para mañá pola tarde o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Comprará un xogo parecido ao parchís para mañá pola tarde o probares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Comprará un xogo parecido ao parchís para mañá pola tarde o probarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Comprará un xogo parecido ao parchís para mañá pola tarde o probaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Comprei un xogo parecido ao parchís para mañá pola tarde * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Comprei un xogo parecido ao parchís para mañá pola tarde * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Comprei un xogo parecido ao parchís para mañá pola tarde * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Comprou un xogo parecido ao parchís para mañá pola tarde * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Comprou un xogo parecido ao parchís para mañá pola tarde * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Comprou un xogo parecido ao parchís para mañá pola tarde * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Comprarei un xogo parecido ao parchís para mañá pola tarde * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Comprarei un xogo parecido ao parchís para mañá pola tarde * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Comprarei un xogo parecido ao parchís para mañá pola tarde * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Comprará un xogo parecido ao parchís para mañá pola tarde * o probares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Comprará un xogo parecido ao parchís para mañá pola tarde * o probarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Comprará un xogo parecido ao parchís para mañá pola tarde * o probaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Ideei un baile para o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Ideei un baile para o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Ideei un baile para o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Ideou un baile para o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Ideou un baile para o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Ideou un baile para o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Idearei un baile para o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Idearei un baile para o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Idearei un baile para o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Ideará un baile para o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Ideará un baile para o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Ideará un baile para o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Ideei un baile para * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Ideei un baile para * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Ideei un baile para * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Ideou un baile para * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Ideou un baile para * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Ideou un baile para * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Idearei un baile para * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Idearei un baile para * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Idearei un baile para * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Ideará un baile para * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Ideará un baile para * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Ideará un baile para * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Ideei un baile similar á muiñeira para mañá pola tarde o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Ideei un baile similar á muiñeira para mañá pola tarde o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Ideei un baile similar á muiñeira para mañá pola tarde o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Ideou un baile similar á muiñeira para mañá pola tarde o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Ideou un baile similar á muiñeira para mañá pola tarde o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Ideou un baile similar á muiñeira para mañá pola tarde o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Idearei un baile similar á muiñeira para mañá pola tarde o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Idearei un baile similar á muiñeira para mañá pola tarde o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Idearei un baile similar á muiñeira para mañá pola tarde o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Ideará un baile similar á muiñeira para mañá pola tarde o desfrutares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Ideará un baile similar á muiñeira para mañá pola tarde o desfrutarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Ideará un baile similar á muiñeira para mañá pola tarde o desfrutaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Ideei un baile similar á muiñeira para mañá pola tarde * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Ideei un baile similar á muiñeira para mañá pola tarde * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Ideei un baile similar á muiñeira para mañá pola tarde * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Ideou un baile similar á muiñeira para mañá pola tarde * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Ideou un baile similar á muiñeira para mañá pola tarde * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Ideou un baile similar á muiñeira para mañá pola tarde * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Idearei un baile similar á muiñeira para mañá pola tarde * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Idearei un baile similar á muiñeira para mañá pola tarde * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Idearei un baile similar á muiñeira para mañá pola tarde * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Ideará un baile similar á muiñeira para mañá pola tarde * o desfrutares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Ideará un baile similar á muiñeira para mañá pola tarde * o desfrutarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Ideará un baile similar á muiñeira para mañá pola tarde * o desfrutaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Pensei un problema para o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Pensei un problema para o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Pensei un problema para o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Pensou un problema para o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Pensou un problema para o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Pensou un problema para o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Pensarei un problema para o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Pensarei un problema para o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Pensarei un problema para o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Pensará un problema para o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Pensará un problema para o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Pensará un problema para o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Pensei un problema para * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Pensei un problema para * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Pensei un problema para * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Pensou un problema para * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Pensou un problema para * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Pensou un problema para * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Pensarei un problema para * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Pensarei un problema para * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Pensarei un problema para * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Pensará un problema para * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Pensará un problema para * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Pensará un problema para * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Pensei un problema de dificiltade máxima para mañá pola tarde o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Pensei un problema de dificiltade máxima para mañá pola tarde o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Pensei un problema de dificiltade máxima para mañá pola tarde o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Pensou un problema de dificiltade máxima para mañá pola tarde o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Pensou un problema de dificiltade máxima para mañá pola tarde o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Pensou un problema de dificiltade máxima para mañá pola tarde o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Pensarei un problema de dificiltade máxima para mañá pola tarde o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Pensarei un problema de dificiltade máxima para mañá pola tarde o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Pensarei un problema de dificiltade máxima para mañá pola tarde o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Pensará un problema de dificiltade máxima para mañá pola tarde o solucionares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Pensará un problema de dificiltade máxima para mañá pola tarde o solucionarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Pensará un problema de dificiltade máxima para mañá pola tarde o solucionaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Pensei un problema de dificiltade máxima para mañá pola tarde * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Pensei un problema de dificiltade máxima para mañá pola tarde * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Pensei un problema de dificiltade máxima para mañá pola tarde * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Pensou un problema de dificiltade máxima para mañá pola tarde * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Pensou un problema de dificiltade máxima para mañá pola tarde * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Pensou un problema de dificiltade máxima para mañá pola tarde * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Pensarei un problema de dificiltade máxima para mañá pola tarde * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Pensarei un problema de dificiltade máxima para mañá pola tarde * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Pensarei un problema de dificiltade máxima para mañá pola tarde * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Pensará un problema de dificiltade máxima para mañá pola tarde * o solucionares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Pensará un problema de dificiltade máxima para mañá pola tarde * o solucionarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Pensará un problema de dificiltade máxima para mañá pola tarde * o solucionaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Preparei un prato para o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Preparei un prato para o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Preparei un prato para o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Preparou un prato para o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Preparou un prato para o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Preparou un prato para o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Prepararei un prato para o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Prepararei un prato para o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Prepararei un prato para o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Preparará un prato para o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Preparará un prato para o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Preparará un prato para o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Preparei un prato para * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Preparei un prato para * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Preparei un prato para * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Preparou un prato para * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Preparou un prato para * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Preparou un prato para * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Prepararei un prato para * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Prepararei un prato para * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Prepararei un prato para * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Preparará un prato para * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Preparará un prato para * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Preparará un prato para * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Preparei un prato de orixe portuguesa para mañá pola tarde o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Preparei un prato de orixe portuguesa para mañá pola tarde o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Preparei un prato de orixe portuguesa para mañá pola tarde o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Preparou un prato de orixe portuguesa para mañá pola tarde o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Preparou un prato de orixe portuguesa para mañá pola tarde o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Preparou un prato de orixe portuguesa para mañá pola tarde o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Prepararei un prato de orixe portuguesa para mañá pola tarde o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Prepararei un prato de orixe portuguesa para mañá pola tarde o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Prepararei un prato de orixe portuguesa para mañá pola tarde o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Preparará un prato de orixe portuguesa para mañá pola tarde o catares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Preparará un prato de orixe portuguesa para mañá pola tarde o catarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Preparará un prato de orixe portuguesa para mañá pola tarde o cataren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Preparei un prato de orixe portuguesa para mañá pola tarde * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Preparei un prato de orixe portuguesa para mañá pola tarde * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Preparei un prato de orixe portuguesa para mañá pola tarde * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Preparou un prato de orixe portuguesa para mañá pola tarde * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Preparou un prato de orixe portuguesa para mañá pola tarde * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Preparou un prato de orixe portuguesa para mañá pola tarde * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Prepararei un prato de orixe portuguesa para mañá pola tarde * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Prepararei un prato de orixe portuguesa para mañá pola tarde * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Prepararei un prato de orixe portuguesa para mañá pola tarde * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Preparará un prato de orixe portuguesa para mañá pola tarde * o catares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Preparará un prato de orixe portuguesa para mañá pola tarde * o catarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Preparará un prato de orixe portuguesa para mañá pola tarde * o cataren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Encarguei unha empanada para a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Encarguei unha empanada para a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Encarguei unha empanada para a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Encargou unha empanada para a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Encargou unha empanada para a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Encargou unha empanada para a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Encargarei unha empanada para a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Encargarei unha empanada para a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Encargarei unha empanada para a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Encargará unha empanada para a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Encargará unha empanada para a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Encargará unha empanada para a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Encarguei unha empanada para * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Encarguei unha empanada para * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Encarguei unha empanada para * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Encargou unha empanada para * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Encargou unha empanada para * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Encargou unha empanada para * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Encargarei unha empanada para * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Encargarei unha empanada para * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Encargarei unha empanada para * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Encargará unha empanada para * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Encargará unha empanada para * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Encargará unha empanada para * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Encarguei unha empanada de pan de millo para mañá pola tarde a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Encarguei unha empanada de pan de millo para mañá pola tarde a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Encarguei unha empanada de pan de millo para mañá pola tarde a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Encargou unha empanada de pan de millo para mañá pola tarde a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Encargou unha empanada de pan de millo para mañá pola tarde a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Encargou unha empanada de pan de millo para mañá pola tarde a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Encargarei unha empanada de pan de millo para mañá pola tarde a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Encargarei unha empanada de pan de millo para mañá pola tarde a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Encargarei unha empanada de pan de millo para mañá pola tarde a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Encargará unha empanada de pan de millo para mañá pola tarde a merendares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Encargará unha empanada de pan de millo para mañá pola tarde a merendarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Encargará unha empanada de pan de millo para mañá pola tarde a merendaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Encarguei unha empanada de pan de millo para mañá pola tarde * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Encarguei unha empanada de pan de millo para mañá pola tarde * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Encarguei unha empanada de pan de millo para mañá pola tarde * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Encargou unha empanada de pan de millo para mañá pola tarde * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Encargou unha empanada de pan de millo para mañá pola tarde * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Encargou unha empanada de pan de millo para mañá pola tarde * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Encargarei unha empanada de pan de millo para mañá pola tarde * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Encargarei unha empanada de pan de millo para mañá pola tarde * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Encargarei unha empanada de pan de millo para mañá pola tarde * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Encargará unha empanada de pan de millo para mañá pola tarde * a merendares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Encargará unha empanada de pan de millo para mañá pola tarde * a merendarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Encargará unha empanada de pan de millo para mañá pola tarde * a merendaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Pesquei unha sardiña para a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Pesquei unha sardiña para a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Pesquei unha sardiña para a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Pescou unha sardiña para a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Pescou unha sardiña para a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Pescou unha sardiña para a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Pescarei unha sardiña para a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Pescarei unha sardiña para a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Pescarei unha sardiña para a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Pescará unha sardiña para a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Pescará unha sardiña para a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Pescará unha sardiña para a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Pesquei unha sardiña para * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Pesquei unha sardiña para * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Pesquei unha sardiña para * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Pescou unha sardiña para * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Pescou unha sardiña para * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Pescou unha sardiña para * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Pescarei unha sardiña para * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Pescarei unha sardiña para * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Pescarei unha sardiña para * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Pescará unha sardiña para * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Pescará unha sardiña para * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Pescará unha sardiña para * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Pesquei unha sardiña co teu xefe para mañá pola tarde a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Pesquei unha sardiña co teu xefe para mañá pola tarde a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Pesquei unha sardiña co teu xefe para mañá pola tarde a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Pescou unha sardiña co teu xefe para mañá pola tarde a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Pescou unha sardiña co teu xefe para mañá pola tarde a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Pescou unha sardiña co teu xefe para mañá pola tarde a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Pescarei unha sardiña co teu xefe para mañá pola tarde a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Pescarei unha sardiña co teu xefe para mañá pola tarde a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Pescarei unha sardiña co teu xefe para mañá pola tarde a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Pescará unha sardiña co teu xefe para mañá pola tarde a xantares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Pescará unha sardiña co teu xefe para mañá pola tarde a xantarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Pescará unha sardiña co teu xefe para mañá pola tarde a xantaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Pesquei unha sardiña co teu xefe para mañá pola tarde * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Pesquei unha sardiña co teu xefe para mañá pola tarde * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Pesquei unha sardiña co teu xefe para mañá pola tarde * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Pescou unha sardiña co teu xefe para mañá pola tarde * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Pescou unha sardiña co teu xefe para mañá pola tarde * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Pescou unha sardiña co teu xefe para mañá pola tarde * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Pescarei unha sardiña co teu xefe para mañá pola tarde * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Pescarei unha sardiña co teu xefe para mañá pola tarde * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Pescarei unha sardiña co teu xefe para mañá pola tarde * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Pescará unha sardiña co teu xefe para mañá pola tarde * a xantares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Pescará unha sardiña co teu xefe para mañá pola tarde * a xantarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Pescará unha sardiña co teu xefe para mañá pola tarde * a xantaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Redactei un escrito para o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Redactei un escrito para o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Redactei un escrito para o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Redactou un escrito para o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Redactou un escrito para o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Redactou un escrito para o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Redactarei un escrito para o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Redactarei un escrito para o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Redactarei un escrito para o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Redactará un escrito para o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Redactará un escrito para o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Redactará un escrito para o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Redactei un escrito para * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Redactei un escrito para * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Redactei un escrito para * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Redactou un escrito para * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Redactou un escrito para * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Redactou un escrito para * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Redactarei un escrito para * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Redactarei un escrito para * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Redactarei un escrito para * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Redactará un escrito para * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Redactará un escrito para * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Redactará un escrito para * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Redactei un escrito como pregón para mañá pola tarde o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Redactei un escrito como pregón para mañá pola tarde o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Redactei un escrito como pregón para mañá pola tarde o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Redactou un escrito como pregón para mañá pola tarde o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Redactou un escrito como pregón para mañá pola tarde o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Redactou un escrito como pregón para mañá pola tarde o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Redactarei un escrito como pregón para mañá pola tarde o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Redactarei un escrito como pregón para mañá pola tarde o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Redactarei un escrito como pregón para mañá pola tarde o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Redactará un escrito como pregón para mañá pola tarde o recitares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Redactará un escrito como pregón para mañá pola tarde o recitarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Redactará un escrito como pregón para mañá pola tarde o recitaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Redactei un escrito como pregón para mañá pola tarde * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Redactei un escrito como pregón para mañá pola tarde * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Redactei un escrito como pregón para mañá pola tarde * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Redactou un escrito como pregón para mañá pola tarde * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Redactou un escrito como pregón para mañá pola tarde * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Redactou un escrito como pregón para mañá pola tarde * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Redactarei un escrito como pregón para mañá pola tarde * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Redactarei un escrito como pregón para mañá pola tarde * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Redactarei un escrito como pregón para mañá pola tarde * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Redactará un escrito como pregón para mañá pola tarde * o recitares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Redactará un escrito como pregón para mañá pola tarde * o recitarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Redactará un escrito como pregón para mañá pola tarde * o recitaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Organicei unha viaxe para a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Organicei unha viaxe para a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Organicei unha viaxe para a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Organizou unha viaxe para a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Organizou unha viaxe para a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Organizou unha viaxe para a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Organizarei unha viaxe para a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Organizarei unha viaxe para a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Organizarei unha viaxe para a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Organizará unha viaxe para a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Organizará unha viaxe para a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Organizará unha viaxe para a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Organicei unha viaxe para * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Organicei unha viaxe para * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Organicei unha viaxe para * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Organizou unha viaxe para * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Organizou unha viaxe para * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Organizou unha viaxe para * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Organizarei unha viaxe para * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Organizarei unha viaxe para * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Organizarei unha viaxe para * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Organizará unha viaxe para * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Organizará unha viaxe para * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Organizará unha viaxe para * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Organicei unha viaxe de fin de curso para nos próximos días a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Organicei unha viaxe de fin de curso para nos próximos días a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Organicei unha viaxe de fin de curso para nos próximos días a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Organizou unha viaxe de fin de curso para nos próximos días a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Organizou unha viaxe de fin de curso para nos próximos días a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Organizou unha viaxe de fin de curso para nos próximos días a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Organizarei unha viaxe de fin de curso para nos próximos días a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Organizarei unha viaxe de fin de curso para nos próximos días a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Organizarei unha viaxe de fin de curso para nos próximos días a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Organizará unha viaxe de fin de curso para nos próximos días a gozares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Organizará unha viaxe de fin de curso para nos próximos días a gozarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Organizará unha viaxe de fin de curso para nos próximos días a gozaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Organicei unha viaxe de fin de curso para nos próximos días * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Organicei unha viaxe de fin de curso para nos próximos días * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Organicei unha viaxe de fin de curso para nos próximos días * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Organizou unha viaxe de fin de curso para nos próximos días * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Organizou unha viaxe de fin de curso para nos próximos días * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Organizou unha viaxe de fin de curso para nos próximos días * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Organizarei unha viaxe de fin de curso para nos próximos días * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Organizarei unha viaxe de fin de curso para nos próximos días * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Organizarei unha viaxe de fin de curso para nos próximos días * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Organizará unha viaxe de fin de curso para nos próximos días * a gozares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Organizará unha viaxe de fin de curso para nos próximos días * a gozarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Organizará unha viaxe de fin de curso para nos próximos días * a gozaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Elaborei un plan para o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Elaborei un plan para o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Elaborei un plan para o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Elaborou un plan para o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Elaborou un plan para o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Elaborou un plan para o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Elaborarei un plan para o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Elaborarei un plan para o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Elaborarei un plan para o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Elaborará un plan para o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Elaborará un plan para o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Elaborará un plan para o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Elaborei un plan para * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Elaborei un plan para * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Elaborei un plan para * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Elaborou un plan para * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Elaborou un plan para * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Elaborou un plan para * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Elaborarei un plan para * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Elaborarei un plan para * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Elaborarei un plan para * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Elaborará un plan para * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Elaborará un plan para * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Elaborará un plan para * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Elaborei un plan detallado de escape para mañá pola tarde o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Elaborei un plan detallado de escape para mañá pola tarde o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Elaborei un plan detallado de escape para mañá pola tarde o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Elaborou un plan detallado de escape para mañá pola tarde o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Elaborou un plan detallado de escape para mañá pola tarde o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Elaborou un plan detallado de escape para mañá pola tarde o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Elaborarei un plan detallado de escape para mañá pola tarde o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Elaborarei un plan detallado de escape para mañá pola tarde o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Elaborarei un plan detallado de escape para mañá pola tarde o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Elaborará un plan detallado de escape para mañá pola tarde o executares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Elaborará un plan detallado de escape para mañá pola tarde o executarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Elaborará un plan detallado de escape para mañá pola tarde o executaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Elaborei un plan detallado de escape para mañá pola tarde * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Elaborei un plan detallado de escape para mañá pola tarde * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Elaborei un plan detallado de escape para mañá pola tarde * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Elaborou un plan detallado de escape para mañá pola tarde * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Elaborou un plan detallado de escape para mañá pola tarde * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Elaborou un plan detallado de escape para mañá pola tarde * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Elaborarei un plan detallado de escape para mañá pola tarde * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Elaborarei un plan detallado de escape para mañá pola tarde * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Elaborarei un plan detallado de escape para mañá pola tarde * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Elaborará un plan detallado de escape para mañá pola tarde * o executares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Elaborará un plan detallado de escape para mañá pola tarde * o executarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Elaborará un plan detallado de escape para mañá pola tarde * o executaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Aluguei un coche para o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Aluguei un coche para o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Aluguei un coche para o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Alugou un coche para o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Alugou un coche para o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Alugou un coche para o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Alugarei un coche para o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Alugarei un coche para o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Alugarei un coche para o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Alugará un coche para o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Alugará un coche para o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Alugará un coche para o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Aluguei un coche para * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Aluguei un coche para * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Aluguei un coche para * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Alugou un coche para * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Alugou un coche para * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Alugou un coche para * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Alugarei un coche para * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Alugarei un coche para * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Alugarei un coche para * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Alugará un coche para * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Alugará un coche para * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Alugará un coche para * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Aluguei un coche no concesionario para mañá pola tarde o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Aluguei un coche no concesionario para mañá pola tarde o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Aluguei un coche no concesionario para mañá pola tarde o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Alugou un coche no concesionario para mañá pola tarde o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Alugou un coche no concesionario para mañá pola tarde o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Alugou un coche no concesionario para mañá pola tarde o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Alugarei un coche no concesionario para mañá pola tarde o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Alugarei un coche no concesionario para mañá pola tarde o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Alugarei un coche no concesionario para mañá pola tarde o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Alugará un coche no concesionario para mañá pola tarde o utilizares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Alugará un coche no concesionario para mañá pola tarde o utilizarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Alugará un coche no concesionario para mañá pola tarde o utilizaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Aluguei un coche no concesionario para mañá pola tarde * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Aluguei un coche no concesionario para mañá pola tarde * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Aluguei un coche no concesionario para mañá pola tarde * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Alugou un coche no concesionario para mañá pola tarde * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Alugou un coche no concesionario para mañá pola tarde * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Alugou un coche no concesionario para mañá pola tarde * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Alugarei un coche no concesionario para mañá pola tarde * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Alugarei un coche no concesionario para mañá pola tarde * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Alugarei un coche no concesionario para mañá pola tarde * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Alugará un coche no concesionario para mañá pola tarde * o utilizares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Alugará un coche no concesionario para mañá pola tarde * o utilizarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Alugará un coche no concesionario para mañá pola tarde * o utilizaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Aceptei unha oferta para a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Aceptei unha oferta para a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Aceptei unha oferta para a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Aceptou unha oferta para a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Aceptou unha oferta para a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Aceptou unha oferta para a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Aceptarei unha oferta para a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Aceptarei unha oferta para a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Aceptarei unha oferta para a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Aceptará unha oferta para a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Aceptará unha oferta para a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Aceptará unha oferta para a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Aceptei unha oferta para * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Aceptei unha oferta para * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Aceptei unha oferta para * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Aceptou unha oferta para * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Aceptou unha oferta para * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Aceptou unha oferta para * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Aceptarei unha oferta para * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Aceptarei unha oferta para * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Aceptarei unha oferta para * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Aceptará unha oferta para * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Aceptará unha oferta para * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Aceptará unha oferta para * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Aceptei unha oferta de venda do piso para mañá pola tarde a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Aceptei unha oferta de venda do piso para mañá pola tarde a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Aceptei unha oferta de venda do piso para mañá pola tarde a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Aceptou unha oferta de venda do piso para mañá pola tarde a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Aceptou unha oferta de venda do piso para mañá pola tarde a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Aceptou unha oferta de venda do piso para mañá pola tarde a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Aceptarei unha oferta de venda do piso para mañá pola tarde a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Aceptarei unha oferta de venda do piso para mañá pola tarde a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Aceptarei unha oferta de venda do piso para mañá pola tarde a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Aceptará unha oferta de venda do piso para mañá pola tarde a estudares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Aceptará unha oferta de venda do piso para mañá pola tarde a estudarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Aceptará unha oferta de venda do piso para mañá pola tarde a estudaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Aceptei unha oferta de venda do piso para mañá pola tarde * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Aceptei unha oferta de venda do piso para mañá pola tarde * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Aceptei unha oferta de venda do piso para mañá pola tarde * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Aceptou unha oferta de venda do piso para mañá pola tarde * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Aceptou unha oferta de venda do piso para mañá pola tarde * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Aceptou unha oferta de venda do piso para mañá pola tarde * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Aceptarei unha oferta de venda do piso para mañá pola tarde * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Aceptarei unha oferta de venda do piso para mañá pola tarde * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Aceptarei unha oferta de venda do piso para mañá pola tarde * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Aceptará unha oferta de venda do piso para mañá pola tarde * a estudares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Aceptará unha oferta de venda do piso para mañá pola tarde * a estudarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Aceptará unha oferta de venda do piso para mañá pola tarde * a estudaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Plantei uns tomates para os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Plantei uns tomates para os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Plantei uns tomates para os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Plantou uns tomates para os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Plantou uns tomates para os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Plantou uns tomates para os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Plantarei uns tomates para os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Plantarei uns tomates para os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Plantarei uns tomates para os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Plantará uns tomates para os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Plantará uns tomates para os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Plantará uns tomates para os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Plantei uns tomates para * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Plantei uns tomates para * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Plantei uns tomates para * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Plantou uns tomates para * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Plantou uns tomates para * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Plantou uns tomates para * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Plantarei uns tomates para * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Plantarei uns tomates para * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Plantarei uns tomates para * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Plantará uns tomates para * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Plantará uns tomates para * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Plantará uns tomates para * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Plantei uns tomates na horta nova para nuns meses os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Plantei uns tomates na horta nova para nuns meses os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Plantei uns tomates na horta nova para nuns meses os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Plantou uns tomates na horta nova para nuns meses os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Plantou uns tomates na horta nova para nuns meses os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Plantou uns tomates na horta nova para nuns meses os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Plantarei uns tomates na horta nova para nuns meses os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Plantarei uns tomates na horta nova para nuns meses os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Plantarei uns tomates na horta nova para nuns meses os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Plantará uns tomates na horta nova para nuns meses os levares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Plantará uns tomates na horta nova para nuns meses os levarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Plantará uns tomates na horta nova para nuns meses os levaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Plantei uns tomates na horta nova para nuns meses * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Plantei uns tomates na horta nova para nuns meses * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Plantei uns tomates na horta nova para nuns meses * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Plantou uns tomates na horta nova para nuns meses * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Plantou uns tomates na horta nova para nuns meses * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Plantou uns tomates na horta nova para nuns meses * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Plantarei uns tomates na horta nova para nuns meses * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Plantarei uns tomates na horta nova para nuns meses * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Plantarei uns tomates na horta nova para nuns meses * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Plantará uns tomates na horta nova para nuns meses * os levares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Plantará uns tomates na horta nova para nuns meses * os levarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Plantará uns tomates na horta nova para nuns meses * os levaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Quentei a sopa para a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Quentei a sopa para a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Quentei a sopa para a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Quentou a sopa para a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Quentou a sopa para a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Quentou a sopa para a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Quentarei a sopa para a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Quentarei a sopa para a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Quentarei a sopa para a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Quentará a sopa para a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Quentará a sopa para a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Quentará a sopa para a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Quentei a sopa para * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Quentei a sopa para * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Quentei a sopa para * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Quentou a sopa para * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Quentou a sopa para * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Quentou a sopa para * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Quentarei a sopa para * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Quentarei a sopa para * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Quentarei a sopa para * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Quentará a sopa para * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Quentará a sopa para * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Quentará a sopa para * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Quentei a sopa na cociña de leña para nunha hora a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Quentei a sopa na cociña de leña para nunha hora a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Quentei a sopa na cociña de leña para nunha hora a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Quentou a sopa na cociña de leña para nunha hora a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Quentou a sopa na cociña de leña para nunha hora a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Quentou a sopa na cociña de leña para nunha hora a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Quentarei a sopa na cociña de leña para nunha hora a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Quentarei a sopa na cociña de leña para nunha hora a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Quentarei a sopa na cociña de leña para nunha hora a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Quentará a sopa na cociña de leña para nunha hora a tomares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Quentará a sopa na cociña de leña para nunha hora a tomarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Quentará a sopa na cociña de leña para nunha hora a tomaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Quentei a sopa na cociña de leña para nunha hora * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Quentei a sopa na cociña de leña para nunha hora * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Quentei a sopa na cociña de leña para nunha hora * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Quentou a sopa na cociña de leña para nunha hora * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Quentou a sopa na cociña de leña para nunha hora * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Quentou a sopa na cociña de leña para nunha hora * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Quentarei a sopa na cociña de leña para nunha hora * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Quentarei a sopa na cociña de leña para nunha hora * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Quentarei a sopa na cociña de leña para nunha hora * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Quentará a sopa na cociña de leña para nunha hora * a tomares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Quentará a sopa na cociña de leña para nunha hora * a tomarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Quentará a sopa na cociña de leña para nunha hora * a tomaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Coei o leite para o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Coei o leite para o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Coei o leite para o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Coou o leite para o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Coou o leite para o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Coou o leite para o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Coarei o leite para o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Coarei o leite para o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Coarei o leite para o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Coará o leite para o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Coará o leite para o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Coará o leite para o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Coei o leite para * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Coei o leite para * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Coei o leite para * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Coou o leite para * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Coou o leite para * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Coou o leite para * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Coarei o leite para * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Coarei o leite para * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Coarei o leite para * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Coará o leite para * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Coará o leite para * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Coará o leite para * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Coei o leite como dixo a xefa para despois o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Coei o leite como dixo a xefa para despois o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Coei o leite como dixo a xefa para despois o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Coou o leite como dixo a xefa para despois o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Coou o leite como dixo a xefa para despois o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Coou o leite como dixo a xefa para despois o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Coarei o leite como dixo a xefa para despois o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Coarei o leite como dixo a xefa para despois o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Coarei o leite como dixo a xefa para despois o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Coará o leite como dixo a xefa para despois o beberes *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Coará o leite como dixo a xefa para despois o bebermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Coará o leite como dixo a xefa para despois o beberen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Coei o leite como dixo a xefa para despois * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Coei o leite como dixo a xefa para despois * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Coei o leite como dixo a xefa para despois * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Coou o leite como dixo a xefa para despois * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Coou o leite como dixo a xefa para despois * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Coou o leite como dixo a xefa para despois * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Coarei o leite como dixo a xefa para despois * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Coarei o leite como dixo a xefa para despois * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Coarei o leite como dixo a xefa para despois * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Coará o leite como dixo a xefa para despois * o beberes.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Coará o leite como dixo a xefa para despois * o bebermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Coará o leite como dixo a xefa para despois * o beberen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Condimentei a ensalada para a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Condimentei a ensalada para a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Condimentei a ensalada para a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Condimentou a ensalada para a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Condimentou a ensalada para a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Condimentou a ensalada para a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Condimentarei a ensalada para a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Condimentarei a ensalada para a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Condimentarei a ensalada para a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Condimentará a ensalada para a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Condimentará a ensalada para a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Condimentará a ensalada para a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Condimentei a ensalada para * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Condimentei a ensalada para * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Condimentei a ensalada para * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Condimentou a ensalada para * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Condimentou a ensalada para * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Condimentou a ensalada para * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Condimentarei a ensalada para * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Condimentarei a ensalada para * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Condimentarei a ensalada para * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Condimentará a ensalada para * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Condimentará a ensalada para * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Condimentará a ensalada para * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Condimentei a ensalada con sal e aceite para despois a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Condimentei a ensalada con sal e aceite para despois a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Condimentei a ensalada con sal e aceite para despois a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Condimentou a ensalada con sal e aceite para despois a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Condimentou a ensalada con sal e aceite para despois a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Condimentou a ensalada con sal e aceite para despois a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Condimentarei a ensalada con sal e aceite para despois a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Condimentarei a ensalada con sal e aceite para despois a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Condimentarei a ensalada con sal e aceite para despois a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Condimentará a ensalada con sal e aceite para despois a remexeres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Condimentará a ensalada con sal e aceite para despois a remexermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Condimentará a ensalada con sal e aceite para despois a remexeren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Condimentei a ensalada con sal e aceite para despois * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Condimentei a ensalada con sal e aceite para despois * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Condimentei a ensalada con sal e aceite para despois * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Condimentou a ensalada con sal e aceite para despois * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Condimentou a ensalada con sal e aceite para despois * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Condimentou a ensalada con sal e aceite para despois * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Condimentarei a ensalada con sal e aceite para despois * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Condimentarei a ensalada con sal e aceite para despois * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Condimentarei a ensalada con sal e aceite para despois * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Condimentará a ensalada con sal e aceite para despois * a remexeres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Condimentará a ensalada con sal e aceite para despois * a remexermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Condimentará a ensalada con sal e aceite para despois * a remexeren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Rocei as cunetas para as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Rocei as cunetas para as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Rocei as cunetas para as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Rozou as cunetas para as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Rozou as cunetas para as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Rozou as cunetas para as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Rozarei as cunetas para as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Rozarei as cunetas para as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Rozarei as cunetas para as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Rozará as cunetas para as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Rozará as cunetas para as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Rozará as cunetas para as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Rocei as cunetas para * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Rocei as cunetas para * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Rocei as cunetas para * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Rozou as cunetas para * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Rozou as cunetas para * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Rozou as cunetas para * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Rozarei as cunetas para * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Rozarei as cunetas para * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Rozarei as cunetas para * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Rozará as cunetas para * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Rozará as cunetas para * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Rozará as cunetas para * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Rocei as cunetas co tractor do concello para despois as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Rocei as cunetas co tractor do concello para despois as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Rocei as cunetas co tractor do concello para despois as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Rozou as cunetas co tractor do concello para despois as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Rozou as cunetas co tractor do concello para despois as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Rozou as cunetas co tractor do concello para despois as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Rozarei as cunetas co tractor do concello para despois as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Rozarei as cunetas co tractor do concello para despois as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Rozarei as cunetas co tractor do concello para despois as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Rozará as cunetas co tractor do concello para despois as limpares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Rozará as cunetas co tractor do concello para despois as limparmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Rozará as cunetas co tractor do concello para despois as limparen *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Rocei as cunetas co tractor do concello para despois * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Rocei as cunetas co tractor do concello para despois * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Rocei as cunetas co tractor do concello para despois * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Rozou as cunetas co tractor do concello para despois * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Rozou as cunetas co tractor do concello para despois * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Rozou as cunetas co tractor do concello para despois * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Rozarei as cunetas co tractor do concello para despois * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Rozarei as cunetas co tractor do concello para despois * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Rozarei as cunetas co tractor do concello para despois * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Rozará as cunetas co tractor do concello para despois * as limpares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Rozará as cunetas co tractor do concello para despois * as limparmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Rozará as cunetas co tractor do concello para despois * as limparen.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Fresei a leira para a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Fresei a leira para a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Fresei a leira para a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Fresou a leira para a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Fresou a leira para a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Fresou a leira para a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Fresarei a leira para a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Fresarei a leira para a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Fresarei a leira para a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Fresará a leira para a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Fresará a leira para a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Fresará a leira para a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Fresei a leira para * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Fresei a leira para * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Fresei a leira para * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Fresou a leira para * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Fresou a leira para * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Fresou a leira para * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Fresarei a leira para * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Fresarei a leira para * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Fresarei a leira para * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Fresará a leira para * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Fresará a leira para * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Fresará a leira para * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Fresei a leira co tractor do veciño para mañá pola mañá a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Fresei a leira co tractor do veciño para mañá pola mañá a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Fresei a leira co tractor do veciño para mañá pola mañá a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Fresou a leira co tractor do veciño para mañá pola mañá a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Fresou a leira co tractor do veciño para mañá pola mañá a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Fresou a leira co tractor do veciño para mañá pola mañá a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Fresarei a leira co tractor do veciño para mañá pola mañá a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Fresarei a leira co tractor do veciño para mañá pola mañá a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Fresarei a leira co tractor do veciño para mañá pola mañá a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Fresará a leira co tractor do veciño para mañá pola mañá a traballares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Fresará a leira co tractor do veciño para mañá pola mañá a traballarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Fresará a leira co tractor do veciño para mañá pola mañá a traballaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Fresei a leira co tractor do veciño para mañá pola mañá * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Fresei a leira co tractor do veciño para mañá pola mañá * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Fresei a leira co tractor do veciño para mañá pola mañá * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Fresou a leira co tractor do veciño para mañá pola mañá * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Fresou a leira co tractor do veciño para mañá pola mañá * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Fresou a leira co tractor do veciño para mañá pola mañá * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Fresarei a leira co tractor do veciño para mañá pola mañá * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Fresarei a leira co tractor do veciño para mañá pola mañá * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Fresarei a leira co tractor do veciño para mañá pola mañá * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Fresará a leira co tractor do veciño para mañá pola mañá * a traballares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Fresará a leira co tractor do veciño para mañá pola mañá * a traballarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Fresará a leira co tractor do veciño para mañá pola mañá * a traballaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Arei a horta para a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Arei a horta para a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Arei a horta para a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Arou a horta para a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Arou a horta para a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Arou a horta para a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Ararei a horta para a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Ararei a horta para a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Ararei a horta para a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Arará a horta para a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Arará a horta para a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Arará a horta para a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Arei a horta para * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Arei a horta para * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Arei a horta para * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Arou a horta para * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Arou a horta para * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Arou a horta para * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Ararei a horta para * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Ararei a horta para * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Ararei a horta para * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Arará a horta para * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Arará a horta para * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Arará a horta para * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Arei a horta co teu arado para mañá pola mañá a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Arei a horta co teu arado para mañá pola mañá a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Arei a horta co teu arado para mañá pola mañá a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Arou a horta co teu arado para mañá pola mañá a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Arou a horta co teu arado para mañá pola mañá a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Arou a horta co teu arado para mañá pola mañá a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Ararei a horta co teu arado para mañá pola mañá a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Ararei a horta co teu arado para mañá pola mañá a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Ararei a horta co teu arado para mañá pola mañá a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Arará a horta co teu arado para mañá pola mañá a sementares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Arará a horta co teu arado para mañá pola mañá a sementarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Arará a horta co teu arado para mañá pola mañá a sementaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Arei a horta co teu arado para mañá pola mañá * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Arei a horta co teu arado para mañá pola mañá * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Arei a horta co teu arado para mañá pola mañá * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Arou a horta co teu arado para mañá pola mañá * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Arou a horta co teu arado para mañá pola mañá * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Arou a horta co teu arado para mañá pola mañá * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Ararei a horta co teu arado para mañá pola mañá * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Ararei a horta co teu arado para mañá pola mañá * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Ararei a horta co teu arado para mañá pola mañá * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Arará a horta co teu arado para mañá pola mañá * a sementares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Arará a horta co teu arado para mañá pola mañá * a sementarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Arará a horta co teu arado para mañá pola mañá * a sementaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Gradei a leira para a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Gradei a leira para a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Gradei a leira para a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Gradou a leira para a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Gradou a leira para a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Gradou a leira para a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Gradarei a leira para a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Gradarei a leira para a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Gradarei a leira para a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Gradará a leira para a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Gradará a leira para a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Gradará a leira para a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Gradei a leira para * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Gradei a leira para * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Gradei a leira para * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Gradou a leira para * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Gradou a leira para * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Gradou a leira para * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Gradarei a leira para * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Gradarei a leira para * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Gradarei a leira para * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Gradará a leira para * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Gradará a leira para * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Gradará a leira para * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Gradei a leira coa axuda do burro para mañá pola mañá a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Gradei a leira coa axuda do burro para mañá pola mañá a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Gradei a leira coa axuda do burro para mañá pola mañá a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Gradou a leira coa axuda do burro para mañá pola mañá a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Gradou a leira coa axuda do burro para mañá pola mañá a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Gradou a leira coa axuda do burro para mañá pola mañá a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Gradarei a leira coa axuda do burro para mañá pola mañá a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Gradarei a leira coa axuda do burro para mañá pola mañá a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Gradarei a leira coa axuda do burro para mañá pola mañá a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Gradará a leira coa axuda do burro para mañá pola mañá a repasares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Gradará a leira coa axuda do burro para mañá pola mañá a repasarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Gradará a leira coa axuda do burro para mañá pola mañá a repasaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Gradei a leira coa axuda do burro para mañá pola mañá * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Gradei a leira coa axuda do burro para mañá pola mañá * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Gradei a leira coa axuda do burro para mañá pola mañá * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Gradou a leira coa axuda do burro para mañá pola mañá * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Gradou a leira coa axuda do burro para mañá pola mañá * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Gradou a leira coa axuda do burro para mañá pola mañá * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Gradarei a leira coa axuda do burro para mañá pola mañá * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Gradarei a leira coa axuda do burro para mañá pola mañá * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Gradarei a leira coa axuda do burro para mañá pola mañá * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Gradará a leira coa axuda do burro para mañá pola mañá * a repasares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Gradará a leira coa axuda do burro para mañá pola mañá * a repasarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Gradará a leira coa axuda do burro para mañá pola mañá * a repasaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Seguei a herba para a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Seguei a herba para a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Seguei a herba para a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Segou a herba para a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Segou a herba para a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Segou a herba para a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Segarei a herba para a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Segarei a herba para a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Segarei a herba para a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Segará a herba para a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Segará a herba para a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Segará a herba para a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Seguei a herba para * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Seguei a herba para * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Seguei a herba para * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Segou a herba para * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Segou a herba para * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Segou a herba para * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Segarei a herba para * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Segarei a herba para * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Segarei a herba para * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Segará a herba para * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Segará a herba para * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Segará a herba para * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Seguei a herba do resto dos veciños para mañá pola tarde a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Seguei a herba do resto dos veciños para mañá pola tarde a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Seguei a herba do resto dos veciños para mañá pola tarde a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Segou a herba do resto dos veciños para mañá pola tarde a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Segou a herba do resto dos veciños para mañá pola tarde a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Segou a herba do resto dos veciños para mañá pola tarde a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Segarei a herba do resto dos veciños para mañá pola tarde a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Segarei a herba do resto dos veciños para mañá pola tarde a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Segarei a herba do resto dos veciños para mañá pola tarde a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Segará a herba do resto dos veciños para mañá pola tarde a empacares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Segará a herba do resto dos veciños para mañá pola tarde a empacarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Segará a herba do resto dos veciños para mañá pola tarde a empacaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Seguei a herba do resto dos veciños para mañá pola tarde * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Seguei a herba do resto dos veciños para mañá pola tarde * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Seguei a herba do resto dos veciños para mañá pola tarde * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Segou a herba do resto dos veciños para mañá pola tarde * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Segou a herba do resto dos veciños para mañá pola tarde * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Segou a herba do resto dos veciños para mañá pola tarde * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Segarei a herba do resto dos veciños para mañá pola tarde * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Segarei a herba do resto dos veciños para mañá pola tarde * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Segarei a herba do resto dos veciños para mañá pola tarde * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Segará a herba do resto dos veciños para mañá pola tarde * a empacares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Segará a herba do resto dos veciños para mañá pola tarde * a empacarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Segará a herba do resto dos veciños para mañá pola tarde * a empacaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Cacheei as patacas para as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Cacheei as patacas para as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Cacheei as patacas para as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Cacheou as patacas para as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Cacheou as patacas para as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Cacheou as patacas para as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Cachearei as patacas para as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Cachearei as patacas para as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Cachearei as patacas para as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Cacheará as patacas para as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Cacheará as patacas para as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Cacheará as patacas para as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Cacheei as patacas para * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Cacheei as patacas para * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Cacheei as patacas para * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Cacheou as patacas para * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Cacheou as patacas para * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Cacheou as patacas para * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Cachearei as patacas para * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Cachearei as patacas para * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Cachearei as patacas para * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Cacheará as patacas para * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Cacheará as patacas para * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Cacheará as patacas para * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Cacheei as patacas hoxe pola fresca para mañá pola mañá as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Cacheei as patacas hoxe pola fresca para mañá pola mañá as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Cacheei as patacas hoxe pola fresca para mañá pola mañá as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Cacheou as patacas hoxe pola fresca para mañá pola mañá as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Cacheou as patacas hoxe pola fresca para mañá pola mañá as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Cacheou as patacas hoxe pola fresca para mañá pola mañá as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Cachearei as patacas hoxe pola fresca para mañá pola mañá as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Cachearei as patacas hoxe pola fresca para mañá pola mañá as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Cachearei as patacas hoxe pola fresca para mañá pola mañá as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Cacheará as patacas hoxe pola fresca para mañá pola mañá as escolleres *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Cacheará as patacas hoxe pola fresca para mañá pola mañá as escollermos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Cacheará as patacas hoxe pola fresca para mañá pola mañá as escolleren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Cacheei as patacas hoxe pola fresca para mañá pola mañá * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Cacheei as patacas hoxe pola fresca para mañá pola mañá * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Cacheei as patacas hoxe pola fresca para mañá pola mañá * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Cacheou as patacas hoxe pola fresca para mañá pola mañá * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Cacheou as patacas hoxe pola fresca para mañá pola mañá * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Cacheou as patacas hoxe pola fresca para mañá pola mañá * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Cachearei as patacas hoxe pola fresca para mañá pola mañá * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Cachearei as patacas hoxe pola fresca para mañá pola mañá * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Cachearei as patacas hoxe pola fresca para mañá pola mañá * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Cacheará as patacas hoxe pola fresca para mañá pola mañá * as escolleres.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Cacheará as patacas hoxe pola fresca para mañá pola mañá * as escollermos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Cacheará as patacas hoxe pola fresca para mañá pola mañá * as escolleren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Mondei os espárragos para os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Mondei os espárragos para os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Mondei os espárragos para os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Mondou os espárragos para os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Mondou os espárragos para os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Mondou os espárragos para os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Mondarei os espárragos para os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Mondarei os espárragos para os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Mondarei os espárragos para os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Mondará os espárragos para os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Mondará os espárragos para os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Mondará os espárragos para os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Mondei os espárragos para * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Mondei os espárragos para * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Mondei os espárragos para * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Mondou os espárragos para * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Mondou os espárragos para * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Mondou os espárragos para * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Mondarei os espárragos para * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Mondarei os espárragos para * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Mondarei os espárragos para * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Mondará os espárragos para * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Mondará os espárragos para * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Mondará os espárragos para * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Mondei os espárragos da horta pequena para mañá pola tarde os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Mondei os espárragos da horta pequena para mañá pola tarde os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Mondei os espárragos da horta pequena para mañá pola tarde os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Mondou os espárragos da horta pequena para mañá pola tarde os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Mondou os espárragos da horta pequena para mañá pola tarde os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Mondou os espárragos da horta pequena para mañá pola tarde os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Mondarei os espárragos da horta pequena para mañá pola tarde os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Mondarei os espárragos da horta pequena para mañá pola tarde os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Mondarei os espárragos da horta pequena para mañá pola tarde os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Mondará os espárragos da horta pequena para mañá pola tarde os apañares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Mondará os espárragos da horta pequena para mañá pola tarde os apañarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Mondará os espárragos da horta pequena para mañá pola tarde os apañaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Mondei os espárragos da horta pequena para mañá pola tarde * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Mondei os espárragos da horta pequena para mañá pola tarde * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Mondei os espárragos da horta pequena para mañá pola tarde * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Mondou os espárragos da horta pequena para mañá pola tarde * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Mondou os espárragos da horta pequena para mañá pola tarde * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Mondou os espárragos da horta pequena para mañá pola tarde * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Mondarei os espárragos da horta pequena para mañá pola tarde * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Mondarei os espárragos da horta pequena para mañá pola tarde * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Mondarei os espárragos da horta pequena para mañá pola tarde * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Mondará os espárragos da horta pequena para mañá pola tarde * os apañares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Mondará os espárragos da horta pequena para mañá pola tarde * os apañarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Mondará os espárragos da horta pequena para mañá pola tarde * os apañaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4
+Atopei unha maceira para a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;0;1
+Atopei unha maceira para a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;0;2
+Atopei unha maceira para a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;0;4
+Atopou unha maceira para a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;0;1;1
+Atopou unha maceira para a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;0;1;2
+Atopou unha maceira para a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;0;1;4
+Atoparei unha maceira para a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;0;1
+Atoparei unha maceira para a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;0;2
+Atoparei unha maceira para a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;0;4
+Atopará unha maceira para a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;0;1;1;1
+Atopará unha maceira para a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;0;1;1;2
+Atopará unha maceira para a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;0;1;1;4
+Atopei unha maceira para * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;0;1
+Atopei unha maceira para * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;0;2
+Atopei unha maceira para * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;0;4
+Atopou unha maceira para * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;0;1;1
+Atopou unha maceira para * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;0;1;2
+Atopou unha maceira para * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;0;1;4
+Atoparei unha maceira para * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;0;1
+Atoparei unha maceira para * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;0;2
+Atoparei unha maceira para * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;0;4
+Atopará unha maceira para * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;0;1;1;1;1
+Atopará unha maceira para * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;0;1;1;1;2
+Atopará unha maceira para * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;0;1;1;1;4
+Atopei unha maceira na finca do veciño para despois a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;0;1
+Atopei unha maceira na finca do veciño para despois a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;0;2
+Atopei unha maceira na finca do veciño para despois a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;0;4
+Atopou unha maceira na finca do veciño para despois a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;0;1;1
+Atopou unha maceira na finca do veciño para despois a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;0;1;2
+Atopou unha maceira na finca do veciño para despois a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;0;1;4
+Atoparei unha maceira na finca do veciño para despois a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;0;1
+Atoparei unha maceira na finca do veciño para despois a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;0;2
+Atoparei unha maceira na finca do veciño para despois a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;0;4
+Atopará unha maceira na finca do veciño para despois a enxertares *.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;0;1;1;1
+Atopará unha maceira na finca do veciño para despois a enxertarmos *.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;0;1;1;2
+Atopará unha maceira na finca do veciño para despois a enxertaren *.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;0;1;1;4
+Atopei unha maceira na finca do veciño para despois * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;0;1
+Atopei unha maceira na finca do veciño para despois * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;0;2
+Atopei unha maceira na finca do veciño para despois * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;0;4
+Atopou unha maceira na finca do veciño para despois * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;0;1;1
+Atopou unha maceira na finca do veciño para despois * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;0;1;2
+Atopou unha maceira na finca do veciño para despois * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;0;1;4
+Atoparei unha maceira na finca do veciño para despois * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;0;1
+Atoparei unha maceira na finca do veciño para despois * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;0;2
+Atoparei unha maceira na finca do veciño para despois * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;0;4
+Atopará unha maceira na finca do veciño para despois * a enxertares.;2;7;ti;tu;eu;el;ela;nós;vós;eles;elas;1;1;1;1;1
+Atopará unha maceira na finca do veciño para despois * a enxertarmos.;1;8;nós;eu;ti;tu;el;ela;vós;eles;elas;1;1;1;1;2
+Atopará unha maceira na finca do veciño para despois * a enxertaren.;2;7;eles;elas;eu;ti;tu;el;ela;nós;vós;1;1;1;1;4

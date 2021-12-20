@@ -1,0 +1,2112 @@
+O neno que xogaba onte alí é *.;alto;alta;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;altos;altas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;alta;alto;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;altas;altos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;alto;alta;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;altos;altas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;alta;alto;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;altas;altos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;alto;alta;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;altos;altas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;alta;alto;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;altas;altos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;alto;alta;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;altos;altas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;altas;altos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;alta;alto;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;alto;alta;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;altos;altas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;alta;alto;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;altas;altos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;alto;alta;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;altos;altas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;alta;alto;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;altas;altos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;alto;alta;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;alta;alto;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;altas;altos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;altos;altas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;alto;alta;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;alta;alto;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;altas;altos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;altos;altas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;alto;alta;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;alta;alto;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;altas;altos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;altos;altas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;alto;alta;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;alta;alto;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;altas;altos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;altos;altas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;alto;alta;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;alta;alto;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;altas;altos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;altos;altas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;alto;alta;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;alta;alto;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;altas;altos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;altos;altas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;alto;alta;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;alta;alto;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;altas;altos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;altos;altas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;alto;alta;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;alta;alto;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;altas;altos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;altos;altas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;alto;alta;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;alta;alto;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;altas;altos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;altos;altas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;alto;alta;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;alta;alto;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;altas;altos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;altos;altas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;alto;alta;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;alta;alto;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;altas;altos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;altos;altas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;alto;alta;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;alta;alto;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;altas;altos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;altos;altas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;alto;alta;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;alta;alto;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;altas;altos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;altos;altas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;alto;alta;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;alta;alto;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;altas;altos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;altos;altas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;alto;alta;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;alta;alto;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;altas;altos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;altos;altas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;alto;alta;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;alta;alto;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;altas;altos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;altos;altas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;alto;alta;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;alta;alto;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;altas;altos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;altos;altas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;alto;alta;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;alta;alto;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;altas;altos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;altos;altas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;considerado;considerada;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;considerados;consideradas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;considerada;considerado;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;consideradas;considerados;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;considerado;considerada;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;considerados;consideradas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;considerada;considerado;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;consideradas;considerados;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;considerado;considerada;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;considerados;consideradas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;considerada;considerado;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;consideradas;considerados;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;considerado;considerada;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;considerados;consideradas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;consideradas;considerados;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;considerada;considerado;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;considerado;considerada;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;considerados;consideradas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;considerada;considerado;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;consideradas;considerados;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;considerado;considerada;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;considerados;consideradas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;considerada;considerado;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;consideradas;considerados;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;considerado;considerada;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;considerada;considerado;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;consideradas;considerados;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;considerados;consideradas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;considerado;considerada;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;considerada;considerado;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;consideradas;considerados;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;considerados;consideradas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;considerado;considerada;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;considerada;considerado;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;consideradas;considerados;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;considerados;consideradas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;considerado;considerada;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;considerada;considerado;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;consideradas;considerados;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;considerados;consideradas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;considerado;considerada;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;considerada;considerado;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;consideradas;considerados;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;considerados;consideradas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;considerado;considerada;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;considerada;considerado;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;consideradas;considerados;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;considerados;consideradas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;considerado;considerada;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;considerada;considerado;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;consideradas;considerados;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;considerados;consideradas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;considerado;considerada;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;considerada;considerado;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;consideradas;considerados;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;considerados;consideradas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;considerado;considerada;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;considerada;considerado;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;consideradas;considerados;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;considerados;consideradas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;considerado;considerada;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;considerada;considerado;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;consideradas;considerados;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;considerados;consideradas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;considerado;considerada;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;considerada;considerado;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;consideradas;considerados;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;considerados;consideradas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;considerado;considerada;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;considerada;considerado;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;consideradas;considerados;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;considerados;consideradas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;considerado;considerada;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;considerada;considerado;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;consideradas;considerados;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;considerados;consideradas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;considerado;considerada;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;considerada;considerado;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;consideradas;considerados;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;considerados;consideradas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;considerado;considerada;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;considerada;considerado;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;consideradas;considerados;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;considerados;consideradas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;considerado;considerada;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;considerada;considerado;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;consideradas;considerados;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;considerados;consideradas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;considerado;considerada;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;considerada;considerado;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;consideradas;considerados;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;considerados;consideradas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;considerado;considerada;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;considerada;considerado;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;consideradas;considerados;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;considerados;consideradas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;crítico;crítica;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;críticos;críticas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;crítica;crítico;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;críticas;críticos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;crítico;crítica;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;críticos;críticas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;crítica;crítico;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;críticas;críticos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;crítico;crítica;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;críticos;críticas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;crítica;crítico;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;críticas;críticos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;crítico;crítica;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;críticos;críticas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;críticas;críticos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;crítica;crítico;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;crítico;crítica;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;críticos;críticas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;crítica;crítico;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;críticas;críticos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;crítico;crítica;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;críticos;críticas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;crítica;crítico;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;críticas;críticos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;crítico;crítica;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;crítica;crítico;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;críticas;críticos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;críticos;críticas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;crítico;crítica;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;crítica;crítico;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;críticas;críticos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;críticos;críticas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;crítico;crítica;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;crítica;crítico;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;críticas;críticos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;críticos;críticas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;crítico;crítica;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;crítica;crítico;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;críticas;críticos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;críticos;críticas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;crítico;crítica;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;crítica;crítico;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;críticas;críticos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;críticos;críticas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;crítico;crítica;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;crítica;crítico;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;críticas;críticos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;críticos;críticas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;crítico;crítica;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;crítica;crítico;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;críticas;críticos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;críticos;críticas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;crítico;crítica;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;crítica;crítico;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;críticas;críticos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;críticos;críticas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;crítico;crítica;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;crítica;crítico;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;críticas;críticos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;críticos;críticas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;crítico;crítica;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;crítica;crítico;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;críticas;críticos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;críticos;críticas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;crítico;crítica;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;crítica;crítico;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;críticas;críticos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;críticos;críticas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;crítico;crítica;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;crítica;crítico;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;críticas;críticos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;críticos;críticas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;crítico;crítica;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;crítica;crítico;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;críticas;críticos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;críticos;críticas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;crítico;crítica;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;crítica;crítico;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;críticas;críticos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;críticos;críticas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;crítico;crítica;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;crítica;crítico;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;críticas;críticos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;críticos;críticas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;crítico;crítica;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;crítica;crítico;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;críticas;críticos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;críticos;críticas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;crítico;crítica;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;crítica;crítico;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;críticas;críticos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;críticos;críticas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;crítico;crítica;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;crítica;crítico;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;críticas;críticos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;críticos;críticas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;distinto;distinta;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;distintos;distintas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;distinta;distinto;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;distintas;distintos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;distinto;distinta;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;distintos;distintas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;distinta;distinto;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;distintas;distintos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;distinto;distinta;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;distintos;distintas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;distinta;distinto;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;distintas;distintos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;distinto;distinta;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;distintos;distintas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;distintas;distintos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;distinta;distinto;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;distinto;distinta;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;distintos;distintas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;distinta;distinto;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;distintas;distintos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;distinto;distinta;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;distintos;distintas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;distinta;distinto;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;distintas;distintos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;distinto;distinta;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;distinta;distinto;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;distintas;distintos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;distintos;distintas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;distinto;distinta;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;distinta;distinto;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;distintas;distintos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;distintos;distintas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;distinto;distinta;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;distinta;distinto;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;distintas;distintos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;distintos;distintas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;distinto;distinta;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;distinta;distinto;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;distintas;distintos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;distintos;distintas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;distinto;distinta;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;distinta;distinto;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;distintas;distintos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;distintos;distintas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;distinto;distinta;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;distinta;distinto;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;distintas;distintos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;distintos;distintas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;distinto;distinta;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;distinta;distinto;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;distintas;distintos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;distintos;distintas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;distinto;distinta;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;distinta;distinto;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;distintas;distintos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;distintos;distintas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;distinto;distinta;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;distinta;distinto;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;distintas;distintos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;distintos;distintas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;distinto;distinta;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;distinta;distinto;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;distintas;distintos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;distintos;distintas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;distinto;distinta;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;distinta;distinto;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;distintas;distintos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;distintos;distintas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;distinto;distinta;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;distinta;distinto;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;distintas;distintos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;distintos;distintas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;distinto;distinta;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;distinta;distinto;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;distintas;distintos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;distintos;distintas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;distinto;distinta;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;distinta;distinto;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;distintas;distintos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;distintos;distintas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;distinto;distinta;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;distinta;distinto;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;distintas;distintos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;distintos;distintas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;distinto;distinta;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;distinta;distinto;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;distintas;distintos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;distintos;distintas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;distinto;distinta;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;distinta;distinto;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;distintas;distintos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;distintos;distintas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;distinto;distinta;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;distinta;distinto;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;distintas;distintos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;distintos;distintas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;europeo;europea;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;europeos;europeas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;europea;europeo;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;europeas;europeos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;europeo;europea;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;europeos;europeas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;europea;europeo;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;europeas;europeos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;europeo;europea;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;europeos;europeas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;europea;europeo;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;europeas;europeos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;europeo;europea;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;europeos;europeas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;europeas;europeos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;europea;europeo;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;europeo;europea;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;europeos;europeas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;europea;europeo;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;europeas;europeos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;europeo;europea;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;europeos;europeas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;europea;europeo;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;europeas;europeos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;europeo;europea;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;europea;europeo;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;europeas;europeos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;europeos;europeas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;europeo;europea;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;europea;europeo;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;europeas;europeos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;europeos;europeas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;europeo;europea;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;europea;europeo;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;europeas;europeos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;europeos;europeas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;europeo;europea;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;europea;europeo;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;europeas;europeos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;europeos;europeas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;europeo;europea;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;europea;europeo;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;europeas;europeos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;europeos;europeas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;europeo;europea;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;europea;europeo;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;europeas;europeos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;europeos;europeas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;europeo;europea;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;europea;europeo;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;europeas;europeos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;europeos;europeas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;europeo;europea;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;europea;europeo;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;europeas;europeos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;europeos;europeas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;europeo;europea;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;europea;europeo;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;europeas;europeos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;europeos;europeas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;europeo;europea;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;europea;europeo;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;europeas;europeos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;europeos;europeas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;europeo;europea;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;europea;europeo;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;europeas;europeos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;europeos;europeas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;europeo;europea;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;europea;europeo;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;europeas;europeos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;europeos;europeas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;europeo;europea;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;europea;europeo;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;europeas;europeos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;europeos;europeas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;europeo;europea;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;europea;europeo;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;europeas;europeos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;europeos;europeas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;europeo;europea;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;europea;europeo;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;europeas;europeos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;europeos;europeas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;europeo;europea;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;europea;europeo;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;europeas;europeos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;europeos;europeas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;europeo;europea;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;europea;europeo;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;europeas;europeos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;europeos;europeas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;europeo;europea;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;europea;europeo;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;europeas;europeos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;europeos;europeas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;francés;francesa;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;franceses;francesas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;francesa;francés;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;francesas;franceses;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;francés;francesa;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;franceses;francesas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;francesa;francés;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;francesas;franceses;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;francés;francesa;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;franceses;francesas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;francesa;francés;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;francesas;franceses;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;francés;francesa;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;franceses;francesas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;francesas;franceses;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;francesa;francés;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;francés;francesa;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;franceses;francesas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;francesa;francés;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;francesas;franceses;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;francés;francesa;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;franceses;francesas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;francesa;francés;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;francesas;franceses;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;francés;francesa;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;francesa;francés;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;francesas;franceses;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;franceses;francesas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;francés;francesa;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;francesa;francés;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;francesas;franceses;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;franceses;francesas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;francés;francesa;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;francesa;francés;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;francesas;franceses;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;franceses;francesas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;francés;francesa;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;francesa;francés;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;francesas;franceses;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;franceses;francesas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;francés;francesa;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;francesa;francés;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;francesas;franceses;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;franceses;francesas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;francés;francesa;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;francesa;francés;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;francesas;franceses;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;franceses;francesas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;francés;francesa;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;francesa;francés;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;francesas;franceses;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;franceses;francesas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;francés;francesa;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;francesa;francés;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;francesas;franceses;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;franceses;francesas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;francés;francesa;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;francesa;francés;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;francesas;franceses;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;franceses;francesas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;francés;francesa;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;francesa;francés;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;francesas;franceses;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;franceses;francesas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;francés;francesa;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;francesa;francés;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;francesas;franceses;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;franceses;francesas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;francés;francesa;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;francesa;francés;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;francesas;franceses;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;franceses;francesas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;francés;francesa;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;francesa;francés;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;francesas;franceses;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;franceses;francesas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;francés;francesa;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;francesa;francés;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;francesas;franceses;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;franceses;francesas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;francés;francesa;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;francesa;francés;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;francesas;franceses;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;franceses;francesas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;francés;francesa;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;francesa;francés;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;francesas;franceses;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;franceses;francesas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;francés;francesa;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;francesa;francés;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;francesas;franceses;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;franceses;francesas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;francés;francesa;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;francesa;francés;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;francesas;franceses;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;franceses;francesas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;humano;humana;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;humanos;humanas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;humana;humano;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;humanas;humanos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;humano;humana;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;humanos;humanas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;humana;humano;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;humanas;humanos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;humano;humana;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;humanos;humanas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;humana;humano;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;humanas;humanos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;humano;humana;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;humanos;humanas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;humanas;humanos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;humana;humano;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;humano;humana;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;humanos;humanas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;humana;humano;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;humanas;humanos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;humano;humana;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;humanos;humanas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;humana;humano;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;humanas;humanos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;humano;humana;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;humana;humano;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;humanas;humanos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;humanos;humanas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;humano;humana;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;humana;humano;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;humanas;humanos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;humanos;humanas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;humano;humana;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;humana;humano;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;humanas;humanos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;humanos;humanas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;humano;humana;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;humana;humano;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;humanas;humanos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;humanos;humanas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;humano;humana;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;humana;humano;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;humanas;humanos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;humanos;humanas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;humano;humana;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;humana;humano;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;humanas;humanos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;humanos;humanas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;humano;humana;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;humana;humano;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;humanas;humanos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;humanos;humanas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;humano;humana;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;humana;humano;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;humanas;humanos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;humanos;humanas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;humano;humana;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;humana;humano;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;humanas;humanos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;humanos;humanas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;humano;humana;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;humana;humano;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;humanas;humanos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;humanos;humanas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;humano;humana;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;humana;humano;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;humanas;humanos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;humanos;humanas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;humano;humana;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;humana;humano;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;humanas;humanos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;humanos;humanas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;humano;humana;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;humana;humano;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;humanas;humanos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;humanos;humanas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;humano;humana;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;humana;humano;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;humanas;humanos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;humanos;humanas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;humano;humana;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;humana;humano;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;humanas;humanos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;humanos;humanas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;humano;humana;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;humana;humano;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;humanas;humanos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;humanos;humanas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;humano;humana;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;humana;humano;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;humanas;humanos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;humanos;humanas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;humano;humana;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;humana;humano;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;humanas;humanos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;humanos;humanas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;moderno;moderna;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;modernos;modernas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;moderna;moderno;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;modernas;modernos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;moderno;moderna;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;modernos;modernas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;moderna;moderno;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;modernas;modernos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;moderno;moderna;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;modernos;modernas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;moderna;moderno;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;modernas;modernos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;moderno;moderna;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;modernos;modernas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;modernas;modernos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;moderna;moderno;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;moderno;moderna;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;modernos;modernas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;moderna;moderno;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;modernas;modernos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;moderno;moderna;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;modernos;modernas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;moderna;moderno;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;modernas;modernos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;moderno;moderna;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;moderna;moderno;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;modernas;modernos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;modernos;modernas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;moderno;moderna;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;moderna;moderno;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;modernas;modernos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;modernos;modernas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;moderno;moderna;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;moderna;moderno;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;modernas;modernos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;modernos;modernas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;moderno;moderna;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;moderna;moderno;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;modernas;modernos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;modernos;modernas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;moderno;moderna;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;moderna;moderno;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;modernas;modernos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;modernos;modernas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;moderno;moderna;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;moderna;moderno;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;modernas;modernos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;modernos;modernas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;moderno;moderna;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;moderna;moderno;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;modernas;modernos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;modernos;modernas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;moderno;moderna;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;moderna;moderno;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;modernas;modernos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;modernos;modernas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;moderno;moderna;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;moderna;moderno;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;modernas;modernos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;modernos;modernas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;moderno;moderna;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;moderna;moderno;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;modernas;modernos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;modernos;modernas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;moderno;moderna;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;moderna;moderno;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;modernas;modernos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;modernos;modernas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;moderno;moderna;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;moderna;moderno;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;modernas;modernos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;modernos;modernas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;moderno;moderna;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;moderna;moderno;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;modernas;modernos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;modernos;modernas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;moderno;moderna;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;moderna;moderno;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;modernas;modernos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;modernos;modernas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;moderno;moderna;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;moderna;moderno;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;modernas;modernos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;modernos;modernas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;moderno;moderna;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;moderna;moderno;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;modernas;modernos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;modernos;modernas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;moderno;moderna;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;moderna;moderno;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;modernas;modernos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;modernos;modernas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;moderno;moderna;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;moderna;moderno;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;modernas;modernos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;modernos;modernas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;negro;negra;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;negros;negras;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;negra;negro;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;negras;negros;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;negro;negra;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;negros;negras;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;negra;negro;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;negras;negros;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;negro;negra;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;negros;negras;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;negra;negro;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;negras;negros;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;negro;negra;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;negros;negras;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;negras;negros;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;negra;negro;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;negro;negra;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;negros;negras;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;negra;negro;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;negras;negros;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;negro;negra;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;negros;negras;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;negra;negro;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;negras;negros;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;negro;negra;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;negra;negro;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;negras;negros;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;negros;negras;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;negro;negra;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;negra;negro;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;negras;negros;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;negros;negras;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;negro;negra;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;negra;negro;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;negras;negros;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;negros;negras;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;negro;negra;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;negra;negro;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;negras;negros;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;negros;negras;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;negro;negra;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;negra;negro;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;negras;negros;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;negros;negras;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;negro;negra;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;negra;negro;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;negras;negros;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;negros;negras;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;negro;negra;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;negra;negro;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;negras;negros;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;negros;negras;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;negro;negra;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;negra;negro;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;negras;negros;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;negros;negras;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;negro;negra;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;negra;negro;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;negras;negros;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;negros;negras;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;negro;negra;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;negra;negro;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;negras;negros;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;negros;negras;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;negro;negra;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;negra;negro;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;negras;negros;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;negros;negras;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;negro;negra;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;negra;negro;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;negras;negros;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;negros;negras;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;negro;negra;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;negra;negro;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;negras;negros;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;negros;negras;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;negro;negra;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;negra;negro;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;negras;negros;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;negros;negras;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;negro;negra;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;negra;negro;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;negras;negros;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;negros;negras;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;negro;negra;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;negra;negro;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;negras;negros;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;negros;negras;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;negro;negra;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;negra;negro;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;negras;negros;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;negros;negras;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;negro;negra;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;negra;negro;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;negras;negros;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;negros;negras;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí é *.;pequeno;pequena;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí son *.;pequenos;pequenas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí é *.;pequena;pequeno;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí son *.;pequenas;pequenos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí é *.;pequeno;pequena;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí son *.;pequenos;pequenas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí é *.;pequena;pequeno;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí son *.;pequenas;pequenos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí é *.;pequeno;pequena;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí son *.;pequenos;pequenas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí é *.;pequena;pequeno;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí son *.;pequenas;pequenos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente é *.;pequeno;pequena;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente son *.;pequenos;pequenas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente son *.;pequenas;pequenos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente é *.;pequena;pequeno;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente é *.;pequeno;pequena;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente son *.;pequenos;pequenas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente é *.;pequena;pequeno;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente son *.;pequenas;pequenos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente é *.;pequeno;pequena;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente son *.;pequenos;pequenas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente é *.;pequena;pequeno;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente son *.;pequenas;pequenos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena é *.;pequeno;pequena;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno é *.;pequena;pequeno;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos son *.;pequenas;pequenos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas son *.;pequenos;pequenas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena é *.;pequeno;pequena;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno é *.;pequena;pequeno;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos son *.;pequenas;pequenos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas son *.;pequenos;pequenas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena é *.;pequeno;pequena;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno é *.;pequena;pequeno;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos son *.;pequenas;pequenos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas son *.;pequenos;pequenas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza é *.;pequeno;pequena;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz é *.;pequena;pequeno;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces son *.;pequenas;pequenos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas son *.;pequenos;pequenas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza é *.;pequeno;pequena;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz é *.;pequena;pequeno;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces son *.;pequenas;pequenos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas son *.;pequenos;pequenas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza é *.;pequeno;pequena;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz é *.;pequena;pequeno;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces son *.;pequenas;pequenos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas son *.;pequenos;pequenas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa é *.;pequeno;pequena;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo é *.;pequena;pequeno;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos son *.;pequenas;pequenos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas son *.;pequenos;pequenas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa é *.;pequeno;pequena;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo é *.;pequena;pequeno;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos son *.;pequenas;pequenos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas son *.;pequenos;pequenas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa é *.;pequeno;pequena;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo é *.;pequena;pequeno;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos son *.;pequenas;pequenos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas son *.;pequenos;pequenas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena é *.;pequeno;pequena;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno é *.;pequena;pequeno;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos son *.;pequenas;pequenos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas son *.;pequenos;pequenas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena é *.;pequeno;pequena;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno é *.;pequena;pequeno;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos son *.;pequenas;pequenos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas son *.;pequenos;pequenas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena é *.;pequeno;pequena;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno é *.;pequena;pequeno;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos son *.;pequenas;pequenos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas son *.;pequenos;pequenas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza é *.;pequeno;pequena;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz é *.;pequena;pequeno;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces son *.;pequenas;pequenos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas son *.;pequenos;pequenas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza é *.;pequeno;pequena;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz é *.;pequena;pequeno;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces son *.;pequenas;pequenos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas son *.;pequenos;pequenas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza é *.;pequeno;pequena;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz é *.;pequena;pequeno;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces son *.;pequenas;pequenos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas son *.;pequenos;pequenas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa é *.;pequeno;pequena;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo é *.;pequena;pequeno;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos son *.;pequenas;pequenos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas son *.;pequenos;pequenas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa é *.;pequeno;pequena;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo é *.;pequena;pequeno;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos son *.;pequenas;pequenos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas son *.;pequenos;pequenas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa é *.;pequeno;pequena;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo é *.;pequena;pequeno;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos son *.;pequenas;pequenos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas son *.;pequenos;pequenas;0;1;1;1;2;2;1;1
+O neno que xogaba onte alí chegou de *.;último;última;0;0;9;9;0;9;0;0
+Os nenos que xogaban onte alí chegaron de *.;últimos;últimas;0;1;9;9;0;9;0;0
+A nena que xogaba onte alí chegou de *.;última;último;1;0;9;9;0;9;0;0
+As nenas que xogaban onte alí chegaron de *.;últimas;últimos;1;1;9;9;0;9;0;0
+O rapaz que xogaba onte alí chegou de *.;último;última;0;0;9;9;1;9;0;0
+Os rapaces que xogaban onte alí chegaron de *.;últimos;últimas;0;1;9;9;1;9;0;0
+A rapaza que xogaba onte alí chegou de *.;última;último;1;0;9;9;1;9;0;0
+As rapazas que xogaban onte alí chegaron de *.;últimas;últimos;1;1;9;9;1;9;0;0
+O cativo que xogaba onte alí chegou de *.;último;última;0;0;9;9;2;9;0;0
+Os cativos que xogaban onte alí chegaron de *.;últimos;últimas;0;1;9;9;2;9;0;0
+A cativa que xogaba onte alí chegou de *.;última;último;1;0;9;9;2;9;0;0
+As cativas que xogaban onte alí chegaron de *.;últimas;últimos;1;1;9;9;2;9;0;0
+O neno que xogaba no parque inaugurado recentemente chegou de *.;último;última;0;0;9;9;0;9;1;0
+Os nenos que xogaban no parque inaugurado recentemente chegaron de *.;últimos;últimas;0;1;9;9;0;9;1;0
+As nenas que xogaban no parque inaugurado recentemente chegaron de *.;últimas;últimos;1;1;9;9;0;9;1;0
+A nena que xogaba no parque inaugurado recentemente chegou de *.;última;último;1;0;9;9;0;9;1;0
+O rapaz que xogaba no parque inaugurado recentemente chegou de *.;último;última;0;0;9;9;1;9;1;0
+Os rapaces que xogaban no parque inaugurado recentemente chegaron de *.;últimos;últimas;0;1;9;9;1;9;1;0
+A rapaza que xogaba no parque inaugurado recentemente chegou de *.;última;último;1;0;9;9;1;9;1;0
+As rapazas que xogaban no parque inaugurado recentemente chegaron de *.;últimas;últimos;1;1;9;9;1;9;1;0
+O cativo que xogaba no parque inaugurado recentemente chegou de *.;último;última;0;0;9;9;2;9;1;0
+Os cativos que xogaban no parque inaugurado recentemente chegaron de *.;últimos;últimas;0;1;9;9;2;9;1;0
+A cativa que xogaba no parque inaugurado recentemente chegou de *.;última;último;1;0;9;9;2;9;1;0
+As cativas que xogaban no parque inaugurado recentemente chegaron de *.;últimas;últimos;1;1;9;9;2;9;1;0
+O neno que xogaba onte alí coa nena chegou de *.;último;última;0;0;1;0;0;0;0;1
+A nena que xogaba onte alí co neno chegou de *.;última;último;1;0;0;0;0;0;0;1
+As nenas que xogaban onte alí cos nenos chegaron de *.;últimas;últimos;1;1;0;1;0;0;0;1
+Os nenos que xogaban onte alí coas nenas chegaron de *.;últimos;últimas;0;1;1;1;0;0;0;1
+O rapaz que xogaba onte alí coa nena chegou de *.;último;última;0;0;1;0;1;0;0;1
+A rapaza que xogaba onte alí co neno chegou de *.;última;último;1;0;0;0;1;0;0;1
+As rapazas que xogaban onte alí cos nenos chegaron de *.;últimas;últimos;1;1;0;1;1;0;0;1
+Os rapaces que xogaban onte alí coas nenas chegaron de *.;últimos;últimas;0;1;1;1;1;0;0;1
+O cativo que xogaba onte alí coa nena chegou de *.;último;última;0;0;1;0;2;0;0;1
+A cativa que xogaba onte alí co neno chegou de *.;última;último;1;0;0;0;2;0;0;1
+As cativas que xogaban onte alí cos nenos chegaron de *.;últimas;últimos;1;1;0;1;2;0;0;1
+Os cativos que xogaban onte alí coas nenas chegaron de *.;últimos;últimas;0;1;1;1;2;0;0;1
+O neno que xogaba onte alí coa rapaza chegou de *.;último;última;0;0;1;0;0;1;0;1
+A nena que xogaba onte alí co rapaz chegou de *.;última;último;1;0;0;0;0;1;0;1
+As nenas que xogaban onte alí cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;0;1;0;1
+Os nenos que xogaban onte alí coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;0;1;0;1
+O rapaz que xogaba onte alí coa rapaza chegou de *.;último;última;0;0;1;0;1;1;0;1
+A rapaza que xogaba onte alí co rapaz chegou de *.;última;último;1;0;0;0;1;1;0;1
+As rapazas que xogaban onte alí cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;1;1;0;1
+Os rapaces que xogaban onte alí coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;1;1;0;1
+O cativo que xogaba onte alí coa rapaza chegou de *.;último;última;0;0;1;0;2;1;0;1
+A cativa que xogaba onte alí co rapaz chegou de *.;última;último;1;0;0;0;2;1;0;1
+As cativas que xogaban onte alí cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;2;1;0;1
+Os cativos que xogaban onte alí coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;2;1;0;1
+O neno que xogaba onte alí coa cativa chegou de *.;último;última;0;0;1;0;0;2;0;1
+A nena que xogaba onte alí co cativo chegou de *.;última;último;1;0;0;0;0;2;0;1
+As nenas que xogaban onte alí cos cativos chegaron de *.;últimas;últimos;1;1;0;1;0;2;0;1
+Os nenos que xogaban onte alí coas cativas chegaron de *.;últimos;últimas;0;1;1;1;0;2;0;1
+O rapaz que xogaba onte alí coa cativa chegou de *.;último;última;0;0;1;0;1;2;0;1
+A rapaza que xogaba onte alí co cativo chegou de *.;última;último;1;0;0;0;1;2;0;1
+As rapazas que xogaban onte alí cos cativos chegaron de *.;últimas;últimos;1;1;0;1;1;2;0;1
+Os rapaces que xogaban onte alí coas cativas chegaron de *.;últimos;últimas;0;1;1;1;1;2;0;1
+O cativo que xogaba onte alí coa cativa chegou de *.;último;última;0;0;1;0;2;2;0;1
+A cativa que xogaba onte alí co cativo chegou de *.;última;último;1;0;0;0;2;2;0;1
+As cativas que xogaban onte alí cos cativos chegaron de *.;últimas;últimos;1;1;0;1;2;2;0;1
+Os cativos que xogaban onte alí coas cativas chegaron de *.;últimos;últimas;0;1;1;1;2;2;0;1
+O neno que xogaba no parque inaugurado recentemente coa nena chegou de *.;último;última;0;0;1;0;0;0;1;1
+A nena que xogaba no parque inaugurado recentemente co neno chegou de *.;última;último;1;0;0;0;0;0;1;1
+As nenas que xogaban no parque inaugurado recentemente cos nenos chegaron de *.;últimas;últimos;1;1;0;1;0;0;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas nenas chegaron de *.;últimos;últimas;0;1;1;1;0;0;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa nena chegou de *.;último;última;0;0;1;0;1;0;1;1
+A rapaza que xogaba no parque inaugurado recentemente co neno chegou de *.;última;último;1;0;0;0;1;0;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos nenos chegaron de *.;últimas;últimos;1;1;0;1;1;0;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas nenas chegaron de *.;últimos;últimas;0;1;1;1;1;0;1;1
+O cativo que xogaba no parque inaugurado recentemente coa nena chegou de *.;último;última;0;0;1;0;2;0;1;1
+A cativa que xogaba no parque inaugurado recentemente co neno chegou de *.;última;último;1;0;0;0;2;0;1;1
+As cativas que xogaban no parque inaugurado recentemente cos nenos chegaron de *.;últimas;últimos;1;1;0;1;2;0;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas nenas chegaron de *.;últimos;últimas;0;1;1;1;2;0;1;1
+O neno que xogaba no parque inaugurado recentemente coa rapaza chegou de *.;último;última;0;0;1;0;0;1;1;1
+A nena que xogaba no parque inaugurado recentemente co rapaz chegou de *.;última;último;1;0;0;0;0;1;1;1
+As nenas que xogaban no parque inaugurado recentemente cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;0;1;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;0;1;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa rapaza chegou de *.;último;última;0;0;1;0;1;1;1;1
+A rapaza que xogaba no parque inaugurado recentemente co rapaz chegou de *.;última;último;1;0;0;0;1;1;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;1;1;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;1;1;1;1
+O cativo que xogaba no parque inaugurado recentemente coa rapaza chegou de *.;último;última;0;0;1;0;2;1;1;1
+A cativa que xogaba no parque inaugurado recentemente co rapaz chegou de *.;última;último;1;0;0;0;2;1;1;1
+As cativas que xogaban no parque inaugurado recentemente cos rapaces chegaron de *.;últimas;últimos;1;1;0;1;2;1;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas rapazas chegaron de *.;últimos;últimas;0;1;1;1;2;1;1;1
+O neno que xogaba no parque inaugurado recentemente coa cativa chegou de *.;último;última;0;0;1;0;0;2;1;1
+A nena que xogaba no parque inaugurado recentemente co cativo chegou de *.;última;último;1;0;0;0;0;2;1;1
+As nenas que xogaban no parque inaugurado recentemente cos cativos chegaron de *.;últimas;últimos;1;1;0;1;0;2;1;1
+Os nenos que xogaban no parque inaugurado recentemente coas cativas chegaron de *.;últimos;últimas;0;1;1;1;0;2;1;1
+O rapaz que xogaba no parque inaugurado recentemente coa cativa chegou de *.;último;última;0;0;1;0;1;2;1;1
+A rapaza que xogaba no parque inaugurado recentemente co cativo chegou de *.;última;último;1;0;0;0;1;2;1;1
+As rapazas que xogaban no parque inaugurado recentemente cos cativos chegaron de *.;últimas;últimos;1;1;0;1;1;2;1;1
+Os rapaces que xogaban no parque inaugurado recentemente coas cativas chegaron de *.;últimos;últimas;0;1;1;1;1;2;1;1
+O cativo que xogaba no parque inaugurado recentemente coa cativa chegou de *.;último;última;0;0;1;0;2;2;1;1
+A cativa que xogaba no parque inaugurado recentemente co cativo chegou de *.;última;último;1;0;0;0;2;2;1;1
+As cativas que xogaban no parque inaugurado recentemente cos cativos chegaron de *.;últimas;últimos;1;1;0;1;2;2;1;1
+Os cativos que xogaban no parque inaugurado recentemente coas cativas chegaron de *.;últimos;últimas;0;1;1;1;2;2;1;1
+O traballador que está alí é *.;antigo;antiga;0;0;9;9;0;9;0;0
+Os traballadores que están alí son *.;antigos;antigas;0;1;9;9;0;9;0;0
+A traballadora que está alí é *.;antiga;antigo;1;0;9;9;0;9;0;0
+As traballadoras que están alí son *.;antigas;antigos;1;1;9;9;0;9;0;0
+O empregado que está alí é *.;antigo;antiga;0;0;9;9;1;9;0;0
+Os empregados que están alí son *.;antigos;antigas;0;1;9;9;1;9;0;0
+A empregada que está alí é *.;antiga;antigo;1;0;9;9;1;9;0;0
+As empregadas que están alí son *.;antigas;antigos;1;1;9;9;1;9;0;0
+O operario que está alí é *.;antigo;antiga;0;0;9;9;2;9;0;0
+Os operarios que están alí son *.;antigos;antigas;0;1;9;9;2;9;0;0
+A operaria que está alí é *.;antiga;antigo;1;0;9;9;2;9;0;0
+As operarias que están alí son *.;antigas;antigos;1;1;9;9;2;9;0;0
+O traballador que desde hai xa máis dun ano está alí é *.;antigo;antiga;0;0;9;9;0;9;1;0
+Os traballadores que desde hai xa máis dun ano están alí son *.;antigos;antigas;0;1;9;9;0;9;1;0
+As traballadoras que desde hai xa máis dun ano están alí son *.;antigas;antigos;1;1;9;9;0;9;1;0
+A traballadora que desde hai xa máis dun ano está alí é *.;antiga;antigo;1;0;9;9;0;9;1;0
+O empregado que desde hai xa máis dun ano está alí é *.;antigo;antiga;0;0;9;9;1;9;1;0
+Os empregados que desde hai xa máis dun ano están alí son *.;antigos;antigas;0;1;9;9;1;9;1;0
+A empregada que desde hai xa máis dun ano está alí é *.;antiga;antigo;1;0;9;9;1;9;1;0
+As empregadas que desde hai xa máis dun ano están alí son *.;antigas;antigos;1;1;9;9;1;9;1;0
+O operario que desde hai xa máis dun ano está alí é *.;antigo;antiga;0;0;9;9;2;9;1;0
+Os operarios que desde hai xa máis dun ano están alí son *.;antigos;antigas;0;1;9;9;2;9;1;0
+A operaria que desde hai xa máis dun ano está alí é *.;antiga;antigo;1;0;9;9;2;9;1;0
+As operarias que desde hai xa máis dun ano están alí son *.;antigas;antigos;1;1;9;9;2;9;1;0
+O traballador que está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;0;0;0;1
+A traballadora que está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;0;0;0;1
+As traballadoras que están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;0;0;0;1
+Os traballadores que están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;0;0;0;1
+O empregado que está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;1;0;0;1
+A empregada que está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;1;0;0;1
+As empregadas que están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;1;0;0;1
+Os empregados que están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;1;0;0;1
+O operario que está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;2;0;0;1
+A operaria que está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;2;0;0;1
+As operarias que están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;2;0;0;1
+Os operarios que están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;2;0;0;1
+O traballador que está obedecendo á directora é *.;antigo;antiga;0;0;1;0;0;1;0;1
+A traballadora que está obedecendo ao director é *.;antiga;antigo;1;0;0;0;0;1;0;1
+As traballadoras que están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;0;1;0;1
+Os traballadores que están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;0;1;0;1
+O empregado que está obedecendo á directora é *.;antigo;antiga;0;0;1;0;1;1;0;1
+A empregada que está obedecendo ao director é *.;antiga;antigo;1;0;0;0;1;1;0;1
+As empregadas que están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;1;1;0;1
+Os empregados que están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;1;1;0;1
+O operario que está obedecendo á directora é *.;antigo;antiga;0;0;1;0;2;1;0;1
+A operaria que está obedecendo ao director é *.;antiga;antigo;1;0;0;0;2;1;0;1
+As operarias que están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;2;1;0;1
+Os operarios que están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;2;1;0;1
+O traballador que está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;0;2;0;1
+A traballadora que está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;0;2;0;1
+As traballadoras que están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;0;2;0;1
+Os traballadores que están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;0;2;0;1
+O empregado que está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;1;2;0;1
+A empregada que está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;1;2;0;1
+As empregadas que están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;1;2;0;1
+Os empregados que están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;1;2;0;1
+O operario que está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;2;2;0;1
+A operaria que está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;2;2;0;1
+As operarias que están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;2;2;0;1
+Os operarios que están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;2;2;0;1
+O traballador que desde hai xa máis dun ano está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;0;0;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;0;0;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;0;0;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;0;0;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;1;0;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;1;0;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;1;0;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;1;0;1;1
+O operario que desde hai xa máis dun ano está obedecendo á xefa é *.;antigo;antiga;0;0;1;0;2;0;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao xefe é *.;antiga;antigo;1;0;0;0;2;0;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos xefes son *.;antigas;antigos;1;1;0;1;2;0;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás xefas son *.;antigos;antigas;0;1;1;1;2;0;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á directora é *.;antigo;antiga;0;0;1;0;0;1;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao director é *.;antiga;antigo;1;0;0;0;0;1;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;0;1;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;0;1;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á directora é *.;antigo;antiga;0;0;1;0;1;1;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao director é *.;antiga;antigo;1;0;0;0;1;1;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;1;1;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;1;1;1;1
+O operario que desde hai xa máis dun ano está obedecendo á directora é *.;antigo;antiga;0;0;1;0;2;1;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao director é *.;antiga;antigo;1;0;0;0;2;1;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos directores son *.;antigas;antigos;1;1;0;1;2;1;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás directoras son *.;antigos;antigas;0;1;1;1;2;1;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;0;2;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;0;2;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;0;2;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;0;2;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;1;2;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;1;2;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;1;2;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;1;2;1;1
+O operario que desde hai xa máis dun ano está obedecendo á encargada é *.;antigo;antiga;0;0;1;0;2;2;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao encargado é *.;antiga;antigo;1;0;0;0;2;2;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos encargados son *.;antigas;antigos;1;1;0;1;2;2;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás encargadas son *.;antigos;antigas;0;1;1;1;2;2;1;1
+O traballador que está alí é *.;novo;nova;0;0;9;9;0;9;0;0
+Os traballadores que están alí son *.;novos;novas;0;1;9;9;0;9;0;0
+A traballadora que está alí é *.;nova;novo;1;0;9;9;0;9;0;0
+As traballadoras que están alí son *.;novas;novos;1;1;9;9;0;9;0;0
+O empregado que está alí é *.;novo;nova;0;0;9;9;1;9;0;0
+Os empregados que están alí son *.;novos;novas;0;1;9;9;1;9;0;0
+A empregada que está alí é *.;nova;novo;1;0;9;9;1;9;0;0
+As empregadas que están alí son *.;novas;novos;1;1;9;9;1;9;0;0
+O operario que está alí é *.;novo;nova;0;0;9;9;2;9;0;0
+Os operarios que están alí son *.;novos;novas;0;1;9;9;2;9;0;0
+A operaria que está alí é *.;nova;novo;1;0;9;9;2;9;0;0
+As operarias que están alí son *.;novas;novos;1;1;9;9;2;9;0;0
+O traballador que desde hai xa máis dun ano está alí é *.;novo;nova;0;0;9;9;0;9;1;0
+Os traballadores que desde hai xa máis dun ano están alí son *.;novos;novas;0;1;9;9;0;9;1;0
+As traballadoras que desde hai xa máis dun ano están alí son *.;novas;novos;1;1;9;9;0;9;1;0
+A traballadora que desde hai xa máis dun ano está alí é *.;nova;novo;1;0;9;9;0;9;1;0
+O empregado que desde hai xa máis dun ano está alí é *.;novo;nova;0;0;9;9;1;9;1;0
+Os empregados que desde hai xa máis dun ano están alí son *.;novos;novas;0;1;9;9;1;9;1;0
+A empregada que desde hai xa máis dun ano está alí é *.;nova;novo;1;0;9;9;1;9;1;0
+As empregadas que desde hai xa máis dun ano están alí son *.;novas;novos;1;1;9;9;1;9;1;0
+O operario que desde hai xa máis dun ano está alí é *.;novo;nova;0;0;9;9;2;9;1;0
+Os operarios que desde hai xa máis dun ano están alí son *.;novos;novas;0;1;9;9;2;9;1;0
+A operaria que desde hai xa máis dun ano está alí é *.;nova;novo;1;0;9;9;2;9;1;0
+As operarias que desde hai xa máis dun ano están alí son *.;novas;novos;1;1;9;9;2;9;1;0
+O traballador que está obedecendo á xefa é *.;novo;nova;0;0;1;0;0;0;0;1
+A traballadora que está obedecendo ao xefe é *.;nova;novo;1;0;0;0;0;0;0;1
+As traballadoras que están obedecendo aos xefes son *.;novas;novos;1;1;0;1;0;0;0;1
+Os traballadores que están obedecendo ás xefas son *.;novos;novas;0;1;1;1;0;0;0;1
+O empregado que está obedecendo á xefa é *.;novo;nova;0;0;1;0;1;0;0;1
+A empregada que está obedecendo ao xefe é *.;nova;novo;1;0;0;0;1;0;0;1
+As empregadas que están obedecendo aos xefes son *.;novas;novos;1;1;0;1;1;0;0;1
+Os empregados que están obedecendo ás xefas son *.;novos;novas;0;1;1;1;1;0;0;1
+O operario que está obedecendo á xefa é *.;novo;nova;0;0;1;0;2;0;0;1
+A operaria que está obedecendo ao xefe é *.;nova;novo;1;0;0;0;2;0;0;1
+As operarias que están obedecendo aos xefes son *.;novas;novos;1;1;0;1;2;0;0;1
+Os operarios que están obedecendo ás xefas son *.;novos;novas;0;1;1;1;2;0;0;1
+O traballador que está obedecendo á directora é *.;novo;nova;0;0;1;0;0;1;0;1
+A traballadora que está obedecendo ao director é *.;nova;novo;1;0;0;0;0;1;0;1
+As traballadoras que están obedecendo aos directores son *.;novas;novos;1;1;0;1;0;1;0;1
+Os traballadores que están obedecendo ás directoras son *.;novos;novas;0;1;1;1;0;1;0;1
+O empregado que está obedecendo á directora é *.;novo;nova;0;0;1;0;1;1;0;1
+A empregada que está obedecendo ao director é *.;nova;novo;1;0;0;0;1;1;0;1
+As empregadas que están obedecendo aos directores son *.;novas;novos;1;1;0;1;1;1;0;1
+Os empregados que están obedecendo ás directoras son *.;novos;novas;0;1;1;1;1;1;0;1
+O operario que está obedecendo á directora é *.;novo;nova;0;0;1;0;2;1;0;1
+A operaria que está obedecendo ao director é *.;nova;novo;1;0;0;0;2;1;0;1
+As operarias que están obedecendo aos directores son *.;novas;novos;1;1;0;1;2;1;0;1
+Os operarios que están obedecendo ás directoras son *.;novos;novas;0;1;1;1;2;1;0;1
+O traballador que está obedecendo á encargada é *.;novo;nova;0;0;1;0;0;2;0;1
+A traballadora que está obedecendo ao encargado é *.;nova;novo;1;0;0;0;0;2;0;1
+As traballadoras que están obedecendo aos encargados son *.;novas;novos;1;1;0;1;0;2;0;1
+Os traballadores que están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;0;2;0;1
+O empregado que está obedecendo á encargada é *.;novo;nova;0;0;1;0;1;2;0;1
+A empregada que está obedecendo ao encargado é *.;nova;novo;1;0;0;0;1;2;0;1
+As empregadas que están obedecendo aos encargados son *.;novas;novos;1;1;0;1;1;2;0;1
+Os empregados que están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;1;2;0;1
+O operario que está obedecendo á encargada é *.;novo;nova;0;0;1;0;2;2;0;1
+A operaria que está obedecendo ao encargado é *.;nova;novo;1;0;0;0;2;2;0;1
+As operarias que están obedecendo aos encargados son *.;novas;novos;1;1;0;1;2;2;0;1
+Os operarios que están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;2;2;0;1
+O traballador que desde hai xa máis dun ano está obedecendo á xefa é *.;novo;nova;0;0;1;0;0;0;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao xefe é *.;nova;novo;1;0;0;0;0;0;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos xefes son *.;novas;novos;1;1;0;1;0;0;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás xefas son *.;novos;novas;0;1;1;1;0;0;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á xefa é *.;novo;nova;0;0;1;0;1;0;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao xefe é *.;nova;novo;1;0;0;0;1;0;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos xefes son *.;novas;novos;1;1;0;1;1;0;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás xefas son *.;novos;novas;0;1;1;1;1;0;1;1
+O operario que desde hai xa máis dun ano está obedecendo á xefa é *.;novo;nova;0;0;1;0;2;0;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao xefe é *.;nova;novo;1;0;0;0;2;0;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos xefes son *.;novas;novos;1;1;0;1;2;0;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás xefas son *.;novos;novas;0;1;1;1;2;0;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á directora é *.;novo;nova;0;0;1;0;0;1;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao director é *.;nova;novo;1;0;0;0;0;1;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos directores son *.;novas;novos;1;1;0;1;0;1;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás directoras son *.;novos;novas;0;1;1;1;0;1;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á directora é *.;novo;nova;0;0;1;0;1;1;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao director é *.;nova;novo;1;0;0;0;1;1;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos directores son *.;novas;novos;1;1;0;1;1;1;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás directoras son *.;novos;novas;0;1;1;1;1;1;1;1
+O operario que desde hai xa máis dun ano está obedecendo á directora é *.;novo;nova;0;0;1;0;2;1;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao director é *.;nova;novo;1;0;0;0;2;1;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos directores son *.;novas;novos;1;1;0;1;2;1;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás directoras son *.;novos;novas;0;1;1;1;2;1;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á encargada é *.;novo;nova;0;0;1;0;0;2;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao encargado é *.;nova;novo;1;0;0;0;0;2;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos encargados son *.;novas;novos;1;1;0;1;0;2;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;0;2;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á encargada é *.;novo;nova;0;0;1;0;1;2;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao encargado é *.;nova;novo;1;0;0;0;1;2;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos encargados son *.;novas;novos;1;1;0;1;1;2;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;1;2;1;1
+O operario que desde hai xa máis dun ano está obedecendo á encargada é *.;novo;nova;0;0;1;0;2;2;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao encargado é *.;nova;novo;1;0;0;0;2;2;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos encargados son *.;novas;novos;1;1;0;1;2;2;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás encargadas son *.;novos;novas;0;1;1;1;2;2;1;1
+O traballador que está alí é *.;público;pública;0;0;9;9;0;9;0;0
+Os traballadores que están alí son *.;públicos;públicas;0;1;9;9;0;9;0;0
+A traballadora que está alí é *.;pública;público;1;0;9;9;0;9;0;0
+As traballadoras que están alí son *.;públicas;públicos;1;1;9;9;0;9;0;0
+O empregado que está alí é *.;público;pública;0;0;9;9;1;9;0;0
+Os empregados que están alí son *.;públicos;públicas;0;1;9;9;1;9;0;0
+A empregada que está alí é *.;pública;público;1;0;9;9;1;9;0;0
+As empregadas que están alí son *.;públicas;públicos;1;1;9;9;1;9;0;0
+O operario que está alí é *.;público;pública;0;0;9;9;2;9;0;0
+Os operarios que están alí son *.;públicos;públicas;0;1;9;9;2;9;0;0
+A operaria que está alí é *.;pública;público;1;0;9;9;2;9;0;0
+As operarias que están alí son *.;públicas;públicos;1;1;9;9;2;9;0;0
+O traballador que desde hai xa máis dun ano está alí é *.;público;pública;0;0;9;9;0;9;1;0
+Os traballadores que desde hai xa máis dun ano están alí son *.;públicos;públicas;0;1;9;9;0;9;1;0
+As traballadoras que desde hai xa máis dun ano están alí son *.;públicas;públicos;1;1;9;9;0;9;1;0
+A traballadora que desde hai xa máis dun ano está alí é *.;pública;público;1;0;9;9;0;9;1;0
+O empregado que desde hai xa máis dun ano está alí é *.;público;pública;0;0;9;9;1;9;1;0
+Os empregados que desde hai xa máis dun ano están alí son *.;públicos;públicas;0;1;9;9;1;9;1;0
+A empregada que desde hai xa máis dun ano está alí é *.;pública;público;1;0;9;9;1;9;1;0
+As empregadas que desde hai xa máis dun ano están alí son *.;públicas;públicos;1;1;9;9;1;9;1;0
+O operario que desde hai xa máis dun ano está alí é *.;público;pública;0;0;9;9;2;9;1;0
+Os operarios que desde hai xa máis dun ano están alí son *.;públicos;públicas;0;1;9;9;2;9;1;0
+A operaria que desde hai xa máis dun ano está alí é *.;pública;público;1;0;9;9;2;9;1;0
+As operarias que desde hai xa máis dun ano están alí son *.;públicas;públicos;1;1;9;9;2;9;1;0
+O traballador que está obedecendo á xefa é *.;público;pública;0;0;1;0;0;0;0;1
+A traballadora que está obedecendo ao xefe é *.;pública;público;1;0;0;0;0;0;0;1
+As traballadoras que están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;0;0;0;1
+Os traballadores que están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;0;0;0;1
+O empregado que está obedecendo á xefa é *.;público;pública;0;0;1;0;1;0;0;1
+A empregada que está obedecendo ao xefe é *.;pública;público;1;0;0;0;1;0;0;1
+As empregadas que están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;1;0;0;1
+Os empregados que están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;1;0;0;1
+O operario que está obedecendo á xefa é *.;público;pública;0;0;1;0;2;0;0;1
+A operaria que está obedecendo ao xefe é *.;pública;público;1;0;0;0;2;0;0;1
+As operarias que están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;2;0;0;1
+Os operarios que están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;2;0;0;1
+O traballador que está obedecendo á directora é *.;público;pública;0;0;1;0;0;1;0;1
+A traballadora que está obedecendo ao director é *.;pública;público;1;0;0;0;0;1;0;1
+As traballadoras que están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;0;1;0;1
+Os traballadores que están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;0;1;0;1
+O empregado que está obedecendo á directora é *.;público;pública;0;0;1;0;1;1;0;1
+A empregada que está obedecendo ao director é *.;pública;público;1;0;0;0;1;1;0;1
+As empregadas que están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;1;1;0;1
+Os empregados que están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;1;1;0;1
+O operario que está obedecendo á directora é *.;público;pública;0;0;1;0;2;1;0;1
+A operaria que está obedecendo ao director é *.;pública;público;1;0;0;0;2;1;0;1
+As operarias que están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;2;1;0;1
+Os operarios que están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;2;1;0;1
+O traballador que está obedecendo á encargada é *.;público;pública;0;0;1;0;0;2;0;1
+A traballadora que está obedecendo ao encargado é *.;pública;público;1;0;0;0;0;2;0;1
+As traballadoras que están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;0;2;0;1
+Os traballadores que están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;0;2;0;1
+O empregado que está obedecendo á encargada é *.;público;pública;0;0;1;0;1;2;0;1
+A empregada que está obedecendo ao encargado é *.;pública;público;1;0;0;0;1;2;0;1
+As empregadas que están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;1;2;0;1
+Os empregados que están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;1;2;0;1
+O operario que está obedecendo á encargada é *.;público;pública;0;0;1;0;2;2;0;1
+A operaria que está obedecendo ao encargado é *.;pública;público;1;0;0;0;2;2;0;1
+As operarias que están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;2;2;0;1
+Os operarios que están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;2;2;0;1
+O traballador que desde hai xa máis dun ano está obedecendo á xefa é *.;público;pública;0;0;1;0;0;0;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao xefe é *.;pública;público;1;0;0;0;0;0;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;0;0;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;0;0;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á xefa é *.;público;pública;0;0;1;0;1;0;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao xefe é *.;pública;público;1;0;0;0;1;0;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;1;0;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;1;0;1;1
+O operario que desde hai xa máis dun ano está obedecendo á xefa é *.;público;pública;0;0;1;0;2;0;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao xefe é *.;pública;público;1;0;0;0;2;0;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos xefes son *.;públicas;públicos;1;1;0;1;2;0;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás xefas son *.;públicos;públicas;0;1;1;1;2;0;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á directora é *.;público;pública;0;0;1;0;0;1;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao director é *.;pública;público;1;0;0;0;0;1;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;0;1;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;0;1;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á directora é *.;público;pública;0;0;1;0;1;1;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao director é *.;pública;público;1;0;0;0;1;1;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;1;1;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;1;1;1;1
+O operario que desde hai xa máis dun ano está obedecendo á directora é *.;público;pública;0;0;1;0;2;1;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao director é *.;pública;público;1;0;0;0;2;1;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos directores son *.;públicas;públicos;1;1;0;1;2;1;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás directoras son *.;públicos;públicas;0;1;1;1;2;1;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á encargada é *.;público;pública;0;0;1;0;0;2;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao encargado é *.;pública;público;1;0;0;0;0;2;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;0;2;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;0;2;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á encargada é *.;público;pública;0;0;1;0;1;2;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao encargado é *.;pública;público;1;0;0;0;1;2;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;1;2;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;1;2;1;1
+O operario que desde hai xa máis dun ano está obedecendo á encargada é *.;público;pública;0;0;1;0;2;2;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao encargado é *.;pública;público;1;0;0;0;2;2;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos encargados son *.;públicas;públicos;1;1;0;1;2;2;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás encargadas son *.;públicos;públicas;0;1;1;1;2;2;1;1
+O traballador que está alí é *.;técnico;técnica;0;0;9;9;0;9;0;0
+Os traballadores que están alí son *.;técnicos;técnicas;0;1;9;9;0;9;0;0
+A traballadora que está alí é *.;técnica;técnico;1;0;9;9;0;9;0;0
+As traballadoras que están alí son *.;técnicas;técnicos;1;1;9;9;0;9;0;0
+O empregado que está alí é *.;técnico;técnica;0;0;9;9;1;9;0;0
+Os empregados que están alí son *.;técnicos;técnicas;0;1;9;9;1;9;0;0
+A empregada que está alí é *.;técnica;técnico;1;0;9;9;1;9;0;0
+As empregadas que están alí son *.;técnicas;técnicos;1;1;9;9;1;9;0;0
+O operario que está alí é *.;técnico;técnica;0;0;9;9;2;9;0;0
+Os operarios que están alí son *.;técnicos;técnicas;0;1;9;9;2;9;0;0
+A operaria que está alí é *.;técnica;técnico;1;0;9;9;2;9;0;0
+As operarias que están alí son *.;técnicas;técnicos;1;1;9;9;2;9;0;0
+O traballador que desde hai xa máis dun ano está alí é *.;técnico;técnica;0;0;9;9;0;9;1;0
+Os traballadores que desde hai xa máis dun ano están alí son *.;técnicos;técnicas;0;1;9;9;0;9;1;0
+As traballadoras que desde hai xa máis dun ano están alí son *.;técnicas;técnicos;1;1;9;9;0;9;1;0
+A traballadora que desde hai xa máis dun ano está alí é *.;técnica;técnico;1;0;9;9;0;9;1;0
+O empregado que desde hai xa máis dun ano está alí é *.;técnico;técnica;0;0;9;9;1;9;1;0
+Os empregados que desde hai xa máis dun ano están alí son *.;técnicos;técnicas;0;1;9;9;1;9;1;0
+A empregada que desde hai xa máis dun ano está alí é *.;técnica;técnico;1;0;9;9;1;9;1;0
+As empregadas que desde hai xa máis dun ano están alí son *.;técnicas;técnicos;1;1;9;9;1;9;1;0
+O operario que desde hai xa máis dun ano está alí é *.;técnico;técnica;0;0;9;9;2;9;1;0
+Os operarios que desde hai xa máis dun ano están alí son *.;técnicos;técnicas;0;1;9;9;2;9;1;0
+A operaria que desde hai xa máis dun ano está alí é *.;técnica;técnico;1;0;9;9;2;9;1;0
+As operarias que desde hai xa máis dun ano están alí son *.;técnicas;técnicos;1;1;9;9;2;9;1;0
+O traballador que está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;0;0;0;1
+A traballadora que está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;0;0;0;1
+As traballadoras que están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;0;0;0;1
+Os traballadores que están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;0;0;0;1
+O empregado que está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;1;0;0;1
+A empregada que está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;1;0;0;1
+As empregadas que están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;1;0;0;1
+Os empregados que están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;1;0;0;1
+O operario que está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;2;0;0;1
+A operaria que está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;2;0;0;1
+As operarias que están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;2;0;0;1
+Os operarios que están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;2;0;0;1
+O traballador que está obedecendo á directora é *.;técnico;técnica;0;0;1;0;0;1;0;1
+A traballadora que está obedecendo ao director é *.;técnica;técnico;1;0;0;0;0;1;0;1
+As traballadoras que están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;0;1;0;1
+Os traballadores que están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;0;1;0;1
+O empregado que está obedecendo á directora é *.;técnico;técnica;0;0;1;0;1;1;0;1
+A empregada que está obedecendo ao director é *.;técnica;técnico;1;0;0;0;1;1;0;1
+As empregadas que están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;1;1;0;1
+Os empregados que están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;1;1;0;1
+O operario que está obedecendo á directora é *.;técnico;técnica;0;0;1;0;2;1;0;1
+A operaria que está obedecendo ao director é *.;técnica;técnico;1;0;0;0;2;1;0;1
+As operarias que están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;2;1;0;1
+Os operarios que están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;2;1;0;1
+O traballador que está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;0;2;0;1
+A traballadora que está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;0;2;0;1
+As traballadoras que están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;0;2;0;1
+Os traballadores que están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;0;2;0;1
+O empregado que está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;1;2;0;1
+A empregada que está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;1;2;0;1
+As empregadas que están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;1;2;0;1
+Os empregados que están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;1;2;0;1
+O operario que está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;2;2;0;1
+A operaria que está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;2;2;0;1
+As operarias que están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;2;2;0;1
+Os operarios que están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;2;2;0;1
+O traballador que desde hai xa máis dun ano está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;0;0;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;0;0;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;0;0;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;0;0;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;1;0;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;1;0;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;1;0;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;1;0;1;1
+O operario que desde hai xa máis dun ano está obedecendo á xefa é *.;técnico;técnica;0;0;1;0;2;0;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao xefe é *.;técnica;técnico;1;0;0;0;2;0;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos xefes son *.;técnicas;técnicos;1;1;0;1;2;0;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás xefas son *.;técnicos;técnicas;0;1;1;1;2;0;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á directora é *.;técnico;técnica;0;0;1;0;0;1;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao director é *.;técnica;técnico;1;0;0;0;0;1;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;0;1;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;0;1;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á directora é *.;técnico;técnica;0;0;1;0;1;1;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao director é *.;técnica;técnico;1;0;0;0;1;1;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;1;1;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;1;1;1;1
+O operario que desde hai xa máis dun ano está obedecendo á directora é *.;técnico;técnica;0;0;1;0;2;1;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao director é *.;técnica;técnico;1;0;0;0;2;1;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos directores son *.;técnicas;técnicos;1;1;0;1;2;1;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás directoras son *.;técnicos;técnicas;0;1;1;1;2;1;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;0;2;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;0;2;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;0;2;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;0;2;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;1;2;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;1;2;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;1;2;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;1;2;1;1
+O operario que desde hai xa máis dun ano está obedecendo á encargada é *.;técnico;técnica;0;0;1;0;2;2;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao encargado é *.;técnica;técnico;1;0;0;0;2;2;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos encargados son *.;técnicas;técnicos;1;1;0;1;2;2;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás encargadas son *.;técnicos;técnicas;0;1;1;1;2;2;1;1
+O traballador que está alí é *.;económico;económica;0;0;9;9;0;9;0;0
+Os traballadores que están alí son *.;económicos;económicas;0;1;9;9;0;9;0;0
+A traballadora que está alí é *.;económica;económico;1;0;9;9;0;9;0;0
+As traballadoras que están alí son *.;económicas;económicos;1;1;9;9;0;9;0;0
+O empregado que está alí é *.;económico;económica;0;0;9;9;1;9;0;0
+Os empregados que están alí son *.;económicos;económicas;0;1;9;9;1;9;0;0
+A empregada que está alí é *.;económica;económico;1;0;9;9;1;9;0;0
+As empregadas que están alí son *.;económicas;económicos;1;1;9;9;1;9;0;0
+O operario que está alí é *.;económico;económica;0;0;9;9;2;9;0;0
+Os operarios que están alí son *.;económicos;económicas;0;1;9;9;2;9;0;0
+A operaria que está alí é *.;económica;económico;1;0;9;9;2;9;0;0
+As operarias que están alí son *.;económicas;económicos;1;1;9;9;2;9;0;0
+O traballador que desde hai xa máis dun ano está alí é *.;económico;económica;0;0;9;9;0;9;1;0
+Os traballadores que desde hai xa máis dun ano están alí son *.;económicos;económicas;0;1;9;9;0;9;1;0
+As traballadoras que desde hai xa máis dun ano están alí son *.;económicas;económicos;1;1;9;9;0;9;1;0
+A traballadora que desde hai xa máis dun ano está alí é *.;económica;económico;1;0;9;9;0;9;1;0
+O empregado que desde hai xa máis dun ano está alí é *.;económico;económica;0;0;9;9;1;9;1;0
+Os empregados que desde hai xa máis dun ano están alí son *.;económicos;económicas;0;1;9;9;1;9;1;0
+A empregada que desde hai xa máis dun ano está alí é *.;económica;económico;1;0;9;9;1;9;1;0
+As empregadas que desde hai xa máis dun ano están alí son *.;económicas;económicos;1;1;9;9;1;9;1;0
+O operario que desde hai xa máis dun ano está alí é *.;económico;económica;0;0;9;9;2;9;1;0
+Os operarios que desde hai xa máis dun ano están alí son *.;económicos;económicas;0;1;9;9;2;9;1;0
+A operaria que desde hai xa máis dun ano está alí é *.;económica;económico;1;0;9;9;2;9;1;0
+As operarias que desde hai xa máis dun ano están alí son *.;económicas;económicos;1;1;9;9;2;9;1;0
+O traballador que está obedecendo á xefa é *.;económico;económica;0;0;1;0;0;0;0;1
+A traballadora que está obedecendo ao xefe é *.;económica;económico;1;0;0;0;0;0;0;1
+As traballadoras que están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;0;0;0;1
+Os traballadores que están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;0;0;0;1
+O empregado que está obedecendo á xefa é *.;económico;económica;0;0;1;0;1;0;0;1
+A empregada que está obedecendo ao xefe é *.;económica;económico;1;0;0;0;1;0;0;1
+As empregadas que están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;1;0;0;1
+Os empregados que están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;1;0;0;1
+O operario que está obedecendo á xefa é *.;económico;económica;0;0;1;0;2;0;0;1
+A operaria que está obedecendo ao xefe é *.;económica;económico;1;0;0;0;2;0;0;1
+As operarias que están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;2;0;0;1
+Os operarios que están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;2;0;0;1
+O traballador que está obedecendo á directora é *.;económico;económica;0;0;1;0;0;1;0;1
+A traballadora que está obedecendo ao director é *.;económica;económico;1;0;0;0;0;1;0;1
+As traballadoras que están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;0;1;0;1
+Os traballadores que están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;0;1;0;1
+O empregado que está obedecendo á directora é *.;económico;económica;0;0;1;0;1;1;0;1
+A empregada que está obedecendo ao director é *.;económica;económico;1;0;0;0;1;1;0;1
+As empregadas que están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;1;1;0;1
+Os empregados que están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;1;1;0;1
+O operario que está obedecendo á directora é *.;económico;económica;0;0;1;0;2;1;0;1
+A operaria que está obedecendo ao director é *.;económica;económico;1;0;0;0;2;1;0;1
+As operarias que están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;2;1;0;1
+Os operarios que están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;2;1;0;1
+O traballador que está obedecendo á encargada é *.;económico;económica;0;0;1;0;0;2;0;1
+A traballadora que está obedecendo ao encargado é *.;económica;económico;1;0;0;0;0;2;0;1
+As traballadoras que están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;0;2;0;1
+Os traballadores que están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;0;2;0;1
+O empregado que está obedecendo á encargada é *.;económico;económica;0;0;1;0;1;2;0;1
+A empregada que está obedecendo ao encargado é *.;económica;económico;1;0;0;0;1;2;0;1
+As empregadas que están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;1;2;0;1
+Os empregados que están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;1;2;0;1
+O operario que está obedecendo á encargada é *.;económico;económica;0;0;1;0;2;2;0;1
+A operaria que está obedecendo ao encargado é *.;económica;económico;1;0;0;0;2;2;0;1
+As operarias que están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;2;2;0;1
+Os operarios que están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;2;2;0;1
+O traballador que desde hai xa máis dun ano está obedecendo á xefa é *.;económico;económica;0;0;1;0;0;0;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao xefe é *.;económica;económico;1;0;0;0;0;0;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;0;0;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;0;0;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á xefa é *.;económico;económica;0;0;1;0;1;0;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao xefe é *.;económica;económico;1;0;0;0;1;0;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;1;0;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;1;0;1;1
+O operario que desde hai xa máis dun ano está obedecendo á xefa é *.;económico;económica;0;0;1;0;2;0;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao xefe é *.;económica;económico;1;0;0;0;2;0;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos xefes son *.;económicas;económicos;1;1;0;1;2;0;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás xefas son *.;económicos;económicas;0;1;1;1;2;0;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á directora é *.;económico;económica;0;0;1;0;0;1;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao director é *.;económica;económico;1;0;0;0;0;1;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;0;1;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;0;1;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á directora é *.;económico;económica;0;0;1;0;1;1;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao director é *.;económica;económico;1;0;0;0;1;1;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;1;1;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;1;1;1;1
+O operario que desde hai xa máis dun ano está obedecendo á directora é *.;económico;económica;0;0;1;0;2;1;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao director é *.;económica;económico;1;0;0;0;2;1;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos directores son *.;económicas;económicos;1;1;0;1;2;1;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás directoras son *.;económicos;económicas;0;1;1;1;2;1;1;1
+O traballador que desde hai xa máis dun ano está obedecendo á encargada é *.;económico;económica;0;0;1;0;0;2;1;1
+A traballadora que desde hai xa máis dun ano está obedecendo ao encargado é *.;económica;económico;1;0;0;0;0;2;1;1
+As traballadoras que desde hai xa máis dun ano están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;0;2;1;1
+Os traballadores que desde hai xa máis dun ano están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;0;2;1;1
+O empregado que desde hai xa máis dun ano está obedecendo á encargada é *.;económico;económica;0;0;1;0;1;2;1;1
+A empregada que desde hai xa máis dun ano está obedecendo ao encargado é *.;económica;económico;1;0;0;0;1;2;1;1
+As empregadas que desde hai xa máis dun ano están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;1;2;1;1
+Os empregados que desde hai xa máis dun ano están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;1;2;1;1
+O operario que desde hai xa máis dun ano está obedecendo á encargada é *.;económico;económica;0;0;1;0;2;2;1;1
+A operaria que desde hai xa máis dun ano está obedecendo ao encargado é *.;económica;económico;1;0;0;0;2;2;1;1
+As operarias que desde hai xa máis dun ano están obedecendo aos encargados son *.;económicas;económicos;1;1;0;1;2;2;1;1
+Os operarios que desde hai xa máis dun ano están obedecendo ás encargadas son *.;económicos;económicas;0;1;1;1;2;2;1;1
+O prado que podes ver aquí diante é *.;propio;propia;0;0;9;9;0;9;0;0
+Os prados que podedes ver aquí diante son *.;propios;propias;0;1;9;9;0;9;0;0
+A veiga que podes ver aquí diante é *.;propia;propio;1;0;9;9;0;9;0;0
+As veigas que podedes ver aquí diante son *.;propias;propios;1;1;9;9;0;9;0;0
+O pasto que podes ver aquí diante é *.;propio;propia;0;0;9;9;1;9;0;0
+Os pastos que podedes ver aquí diante son *.;propios;propias;0;1;9;9;1;9;0;0
+A varcia que podes ver aquí diante é *.;propia;propio;1;0;9;9;1;9;0;0
+As varcias que podedes ver aquí diante son *.;propias;propios;1;1;9;9;1;9;0;0
+O agro que podes ver aquí diante é *.;propio;propia;0;0;9;9;2;9;0;0
+Os agros que podedes ver aquí diante son *.;propios;propias;0;1;9;9;2;9;0;0
+A leira que podes ver aquí diante é *.;propia;propio;1;0;9;9;2;9;0;0
+As leiras que podedes ver aquí diante son *.;propias;propios;1;1;9;9;2;9;0;0
+O prado que desde hai xa máis dun ano podes ver aquí diante é *.;propio;propia;0;0;9;9;0;9;1;0
+Os prados que desde hai xa máis dun ano podedes ver aquí diante son *.;propios;propias;0;1;9;9;0;9;1;0
+As veigas que desde hai xa máis dun ano podedes ver aquí diante son *.;propias;propios;1;1;9;9;0;9;1;0
+A veiga que desde hai xa máis dun ano podes ver aquí diante é *.;propia;propio;1;0;9;9;0;9;1;0
+O pasto que desde hai xa máis dun ano podes ver aquí diante é *.;propio;propia;0;0;9;9;1;9;1;0
+Os pastos que desde hai xa máis dun ano podedes ver aquí diante son *.;propios;propias;0;1;9;9;1;9;1;0
+A varcia que desde hai xa máis dun ano podes ver aquí diante é *.;propia;propio;1;0;9;9;1;9;1;0
+As varcias que desde hai xa máis dun ano podedes ver aquí diante son *.;propias;propios;1;1;9;9;1;9;1;0
+O agro que desde hai xa máis dun ano podes ver aquí diante é *.;propio;propia;0;0;9;9;2;9;1;0
+Os agros que desde hai xa máis dun ano podedes ver aquí diante son *.;propios;propias;0;1;9;9;2;9;1;0
+A leira que desde hai xa máis dun ano podes ver aquí diante é *.;propia;propio;1;0;9;9;2;9;1;0
+As leiras que desde hai xa máis dun ano podedes ver aquí diante son *.;propias;propios;1;1;9;9;2;9;1;0
+O prado que está a carón daquela casa é *.;propio;propia;0;0;1;0;0;0;0;1
+A veiga que está a carón daquel pendello é *.;propia;propio;1;0;0;0;0;0;0;1
+As veigas que están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;0;0;0;1
+Os prados que están a carón daquelas casas son *.;propios;propias;0;1;1;1;0;0;0;1
+O pasto que está a carón daquela casa é *.;propio;propia;0;0;1;0;1;0;0;1
+A varcia que está a carón daquel pendello é *.;propia;propio;1;0;0;0;1;0;0;1
+As varcias que están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;1;0;0;1
+Os pastos que están a carón daquelas casas son *.;propios;propias;0;1;1;1;1;0;0;1
+O agro que está a carón daquela casa é *.;propio;propia;0;0;1;0;2;0;0;1
+A leira que está a carón daquel pendello é *.;propia;propio;1;0;0;0;2;0;0;1
+As leiras que están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;2;0;0;1
+Os agros que están a carón daquelas casas son *.;propios;propias;0;1;1;1;2;0;0;1
+O prado que está a carón daquela vivenda é *.;propio;propia;0;0;1;0;0;1;0;1
+A veiga que está a carón daquel alpendre é *.;propia;propio;1;0;0;0;0;1;0;1
+As veigas que están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;0;1;0;1
+Os prados que están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;0;1;0;1
+O pasto que está a carón daquela vivenda é *.;propio;propia;0;0;1;0;1;1;0;1
+A varcia que está a carón daquel alpendre é *.;propia;propio;1;0;0;0;1;1;0;1
+As varcias que están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;1;1;0;1
+Os pastos que están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;1;1;0;1
+O agro que está a carón daquela vivenda é *.;propio;propia;0;0;1;0;2;1;0;1
+A leira que está a carón daquel alpendre é *.;propia;propio;1;0;0;0;2;1;0;1
+As leiras que están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;2;1;0;1
+Os agros que están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;2;1;0;1
+O prado que está a carón daquela edificación é *.;propio;propia;0;0;1;0;0;2;0;1
+A veiga que está a carón daquel cuberto é *.;propia;propio;1;0;0;0;0;2;0;1
+As veigas que están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;0;2;0;1
+Os prados que están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;0;2;0;1
+O pasto que está a carón daquela edificación é *.;propio;propia;0;0;1;0;1;2;0;1
+A varcia que está a carón daquel cuberto é *.;propia;propio;1;0;0;0;1;2;0;1
+As varcias que están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;1;2;0;1
+Os pastos que están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;1;2;0;1
+O agro que está a carón daquela edificación é *.;propio;propia;0;0;1;0;2;2;0;1
+A leira que está a carón daquel cuberto é *.;propia;propio;1;0;0;0;2;2;0;1
+As leiras que están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;2;2;0;1
+Os agros que están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;2;2;0;1
+O prado que desde hai xa máis dun ano está a carón daquela casa é *.;propio;propia;0;0;1;0;0;0;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel pendello é *.;propia;propio;1;0;0;0;0;0;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;0;0;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas casas son *.;propios;propias;0;1;1;1;0;0;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela casa é *.;propio;propia;0;0;1;0;1;0;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel pendello é *.;propia;propio;1;0;0;0;1;0;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;1;0;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas casas son *.;propios;propias;0;1;1;1;1;0;1;1
+O agro que desde hai xa máis dun ano está a carón daquela casa é *.;propio;propia;0;0;1;0;2;0;1;1
+A leira que desde hai xa máis dun ano está a carón daquel pendello é *.;propia;propio;1;0;0;0;2;0;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles pendellos son *.;propias;propios;1;1;0;1;2;0;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas casas son *.;propios;propias;0;1;1;1;2;0;1;1
+O prado que desde hai xa máis dun ano está a carón daquela vivenda é *.;propio;propia;0;0;1;0;0;1;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel alpendre é *.;propia;propio;1;0;0;0;0;1;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;0;1;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;0;1;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela vivenda é *.;propio;propia;0;0;1;0;1;1;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel alpendre é *.;propia;propio;1;0;0;0;1;1;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;1;1;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;1;1;1;1
+O agro que desde hai xa máis dun ano está a carón daquela vivenda é *.;propio;propia;0;0;1;0;2;1;1;1
+A leira que desde hai xa máis dun ano está a carón daquel alpendre é *.;propia;propio;1;0;0;0;2;1;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles alpendres son *.;propias;propios;1;1;0;1;2;1;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas vivendas son *.;propios;propias;0;1;1;1;2;1;1;1
+O prado que desde hai xa máis dun ano está a carón daquela edificación é *.;propio;propia;0;0;1;0;0;2;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel cuberto é *.;propia;propio;1;0;0;0;0;2;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;0;2;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;0;2;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela edificación é *.;propio;propia;0;0;1;0;1;2;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel cuberto é *.;propia;propio;1;0;0;0;1;2;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;1;2;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;1;2;1;1
+O agro que desde hai xa máis dun ano está a carón daquela edificación é *.;propio;propia;0;0;1;0;2;2;1;1
+A leira que desde hai xa máis dun ano está a carón daquel cuberto é *.;propia;propio;1;0;0;0;2;2;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles cubertos son *.;propias;propios;1;1;0;1;2;2;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas edificacións son *.;propios;propias;0;1;1;1;2;2;1;1
+O prado que podes ver aquí diante está *.;usado;usada;0;0;9;9;0;9;0;0
+Os prados que podedes ver aquí diante están *.;usados;usadas;0;1;9;9;0;9;0;0
+A veiga que podes ver aquí diante está *.;usada;usado;1;0;9;9;0;9;0;0
+As veigas que podedes ver aquí diante están *.;usadas;usados;1;1;9;9;0;9;0;0
+O pasto que podes ver aquí diante está *.;usado;usada;0;0;9;9;1;9;0;0
+Os pastos que podedes ver aquí diante están *.;usados;usadas;0;1;9;9;1;9;0;0
+A varcia que podes ver aquí diante está *.;usada;usado;1;0;9;9;1;9;0;0
+As varcias que podedes ver aquí diante están *.;usadas;usados;1;1;9;9;1;9;0;0
+O agro que podes ver aquí diante está *.;usado;usada;0;0;9;9;2;9;0;0
+Os agros que podedes ver aquí diante están *.;usados;usadas;0;1;9;9;2;9;0;0
+A leira que podes ver aquí diante está *.;usada;usado;1;0;9;9;2;9;0;0
+As leiras que podedes ver aquí diante están *.;usadas;usados;1;1;9;9;2;9;0;0
+O prado que desde hai xa máis dun ano podes ver aquí diante está *.;usado;usada;0;0;9;9;0;9;1;0
+Os prados que desde hai xa máis dun ano podedes ver aquí diante están *.;usados;usadas;0;1;9;9;0;9;1;0
+As veigas que desde hai xa máis dun ano podedes ver aquí diante están *.;usadas;usados;1;1;9;9;0;9;1;0
+A veiga que desde hai xa máis dun ano podes ver aquí diante está *.;usada;usado;1;0;9;9;0;9;1;0
+O pasto que desde hai xa máis dun ano podes ver aquí diante está *.;usado;usada;0;0;9;9;1;9;1;0
+Os pastos que desde hai xa máis dun ano podedes ver aquí diante están *.;usados;usadas;0;1;9;9;1;9;1;0
+A varcia que desde hai xa máis dun ano podes ver aquí diante está *.;usada;usado;1;0;9;9;1;9;1;0
+As varcias que desde hai xa máis dun ano podedes ver aquí diante están *.;usadas;usados;1;1;9;9;1;9;1;0
+O agro que desde hai xa máis dun ano podes ver aquí diante está *.;usado;usada;0;0;9;9;2;9;1;0
+Os agros que desde hai xa máis dun ano podedes ver aquí diante están *.;usados;usadas;0;1;9;9;2;9;1;0
+A leira que desde hai xa máis dun ano podes ver aquí diante está *.;usada;usado;1;0;9;9;2;9;1;0
+As leiras que desde hai xa máis dun ano podedes ver aquí diante están *.;usadas;usados;1;1;9;9;2;9;1;0
+O prado que está a carón daquela casa está *.;usado;usada;0;0;1;0;0;0;0;1
+A veiga que está a carón daquel pendello está *.;usada;usado;1;0;0;0;0;0;0;1
+As veigas que están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;0;0;0;1
+Os prados que están a carón daquelas casas están *.;usados;usadas;0;1;1;1;0;0;0;1
+O pasto que está a carón daquela casa está *.;usado;usada;0;0;1;0;1;0;0;1
+A varcia que está a carón daquel pendello está *.;usada;usado;1;0;0;0;1;0;0;1
+As varcias que están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;1;0;0;1
+Os pastos que están a carón daquelas casas están *.;usados;usadas;0;1;1;1;1;0;0;1
+O agro que está a carón daquela casa está *.;usado;usada;0;0;1;0;2;0;0;1
+A leira que está a carón daquel pendello está *.;usada;usado;1;0;0;0;2;0;0;1
+As leiras que están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;2;0;0;1
+Os agros que están a carón daquelas casas están *.;usados;usadas;0;1;1;1;2;0;0;1
+O prado que está a carón daquela vivenda está *.;usado;usada;0;0;1;0;0;1;0;1
+A veiga que está a carón daquel alpendre está *.;usada;usado;1;0;0;0;0;1;0;1
+As veigas que están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;0;1;0;1
+Os prados que están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;0;1;0;1
+O pasto que está a carón daquela vivenda está *.;usado;usada;0;0;1;0;1;1;0;1
+A varcia que está a carón daquel alpendre está *.;usada;usado;1;0;0;0;1;1;0;1
+As varcias que están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;1;1;0;1
+Os pastos que están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;1;1;0;1
+O agro que está a carón daquela vivenda está *.;usado;usada;0;0;1;0;2;1;0;1
+A leira que está a carón daquel alpendre está *.;usada;usado;1;0;0;0;2;1;0;1
+As leiras que están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;2;1;0;1
+Os agros que están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;2;1;0;1
+O prado que está a carón daquela edificación está *.;usado;usada;0;0;1;0;0;2;0;1
+A veiga que está a carón daquel cuberto está *.;usada;usado;1;0;0;0;0;2;0;1
+As veigas que están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;0;2;0;1
+Os prados que están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;0;2;0;1
+O pasto que está a carón daquela edificación está *.;usado;usada;0;0;1;0;1;2;0;1
+A varcia que está a carón daquel cuberto está *.;usada;usado;1;0;0;0;1;2;0;1
+As varcias que están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;1;2;0;1
+Os pastos que están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;1;2;0;1
+O agro que está a carón daquela edificación está *.;usado;usada;0;0;1;0;2;2;0;1
+A leira que está a carón daquel cuberto está *.;usada;usado;1;0;0;0;2;2;0;1
+As leiras que están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;2;2;0;1
+Os agros que están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;2;2;0;1
+O prado que desde hai xa máis dun ano está a carón daquela casa está *.;usado;usada;0;0;1;0;0;0;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel pendello está *.;usada;usado;1;0;0;0;0;0;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;0;0;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas casas están *.;usados;usadas;0;1;1;1;0;0;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela casa está *.;usado;usada;0;0;1;0;1;0;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel pendello está *.;usada;usado;1;0;0;0;1;0;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;1;0;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas casas están *.;usados;usadas;0;1;1;1;1;0;1;1
+O agro que desde hai xa máis dun ano está a carón daquela casa está *.;usado;usada;0;0;1;0;2;0;1;1
+A leira que desde hai xa máis dun ano está a carón daquel pendello está *.;usada;usado;1;0;0;0;2;0;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles pendellos están *.;usadas;usados;1;1;0;1;2;0;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas casas están *.;usados;usadas;0;1;1;1;2;0;1;1
+O prado que desde hai xa máis dun ano está a carón daquela vivenda está *.;usado;usada;0;0;1;0;0;1;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel alpendre está *.;usada;usado;1;0;0;0;0;1;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;0;1;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;0;1;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela vivenda está *.;usado;usada;0;0;1;0;1;1;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel alpendre está *.;usada;usado;1;0;0;0;1;1;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;1;1;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;1;1;1;1
+O agro que desde hai xa máis dun ano está a carón daquela vivenda está *.;usado;usada;0;0;1;0;2;1;1;1
+A leira que desde hai xa máis dun ano está a carón daquel alpendre está *.;usada;usado;1;0;0;0;2;1;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles alpendres están *.;usadas;usados;1;1;0;1;2;1;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas vivendas están *.;usados;usadas;0;1;1;1;2;1;1;1
+O prado que desde hai xa máis dun ano está a carón daquela edificación está *.;usado;usada;0;0;1;0;0;2;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel cuberto está *.;usada;usado;1;0;0;0;0;2;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;0;2;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;0;2;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela edificación está *.;usado;usada;0;0;1;0;1;2;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel cuberto está *.;usada;usado;1;0;0;0;1;2;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;1;2;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;1;2;1;1
+O agro que desde hai xa máis dun ano está a carón daquela edificación está *.;usado;usada;0;0;1;0;2;2;1;1
+A leira que desde hai xa máis dun ano está a carón daquel cuberto está *.;usada;usado;1;0;0;0;2;2;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles cubertos están *.;usadas;usados;1;1;0;1;2;2;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas edificacións están *.;usados;usadas;0;1;1;1;2;2;1;1
+O prado que podes ver aquí diante está *.;partido;partida;0;0;9;9;0;9;0;0
+Os prados que podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;0;9;0;0
+A veiga que podes ver aquí diante está *.;partida;partido;1;0;9;9;0;9;0;0
+As veigas que podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;0;9;0;0
+O pasto que podes ver aquí diante está *.;partido;partida;0;0;9;9;1;9;0;0
+Os pastos que podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;1;9;0;0
+A varcia que podes ver aquí diante está *.;partida;partido;1;0;9;9;1;9;0;0
+As varcias que podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;1;9;0;0
+O agro que podes ver aquí diante está *.;partido;partida;0;0;9;9;2;9;0;0
+Os agros que podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;2;9;0;0
+A leira que podes ver aquí diante está *.;partida;partido;1;0;9;9;2;9;0;0
+As leiras que podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;2;9;0;0
+O prado que desde hai xa máis dun ano podes ver aquí diante está *.;partido;partida;0;0;9;9;0;9;1;0
+Os prados que desde hai xa máis dun ano podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;0;9;1;0
+As veigas que desde hai xa máis dun ano podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;0;9;1;0
+A veiga que desde hai xa máis dun ano podes ver aquí diante está *.;partida;partido;1;0;9;9;0;9;1;0
+O pasto que desde hai xa máis dun ano podes ver aquí diante está *.;partido;partida;0;0;9;9;1;9;1;0
+Os pastos que desde hai xa máis dun ano podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;1;9;1;0
+A varcia que desde hai xa máis dun ano podes ver aquí diante está *.;partida;partido;1;0;9;9;1;9;1;0
+As varcias que desde hai xa máis dun ano podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;1;9;1;0
+O agro que desde hai xa máis dun ano podes ver aquí diante está *.;partido;partida;0;0;9;9;2;9;1;0
+Os agros que desde hai xa máis dun ano podedes ver aquí diante están *.;partidos;partidas;0;1;9;9;2;9;1;0
+A leira que desde hai xa máis dun ano podes ver aquí diante está *.;partida;partido;1;0;9;9;2;9;1;0
+As leiras que desde hai xa máis dun ano podedes ver aquí diante están *.;partidas;partidos;1;1;9;9;2;9;1;0
+O prado que está a carón daquela casa está *.;partido;partida;0;0;1;0;0;0;0;1
+A veiga que está a carón daquel pendello está *.;partida;partido;1;0;0;0;0;0;0;1
+As veigas que están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;0;0;0;1
+Os prados que están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;0;0;0;1
+O pasto que está a carón daquela casa está *.;partido;partida;0;0;1;0;1;0;0;1
+A varcia que está a carón daquel pendello está *.;partida;partido;1;0;0;0;1;0;0;1
+As varcias que están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;1;0;0;1
+Os pastos que están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;1;0;0;1
+O agro que está a carón daquela casa está *.;partido;partida;0;0;1;0;2;0;0;1
+A leira que está a carón daquel pendello está *.;partida;partido;1;0;0;0;2;0;0;1
+As leiras que están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;2;0;0;1
+Os agros que están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;2;0;0;1
+O prado que está a carón daquela vivenda está *.;partido;partida;0;0;1;0;0;1;0;1
+A veiga que está a carón daquel alpendre está *.;partida;partido;1;0;0;0;0;1;0;1
+As veigas que están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;0;1;0;1
+Os prados que están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;0;1;0;1
+O pasto que está a carón daquela vivenda está *.;partido;partida;0;0;1;0;1;1;0;1
+A varcia que está a carón daquel alpendre está *.;partida;partido;1;0;0;0;1;1;0;1
+As varcias que están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;1;1;0;1
+Os pastos que están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;1;1;0;1
+O agro que está a carón daquela vivenda está *.;partido;partida;0;0;1;0;2;1;0;1
+A leira que está a carón daquel alpendre está *.;partida;partido;1;0;0;0;2;1;0;1
+As leiras que están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;2;1;0;1
+Os agros que están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;2;1;0;1
+O prado que está a carón daquela edificación está *.;partido;partida;0;0;1;0;0;2;0;1
+A veiga que está a carón daquel cuberto está *.;partida;partido;1;0;0;0;0;2;0;1
+As veigas que están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;0;2;0;1
+Os prados que están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;0;2;0;1
+O pasto que está a carón daquela edificación está *.;partido;partida;0;0;1;0;1;2;0;1
+A varcia que está a carón daquel cuberto está *.;partida;partido;1;0;0;0;1;2;0;1
+As varcias que están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;1;2;0;1
+Os pastos que están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;1;2;0;1
+O agro que está a carón daquela edificación está *.;partido;partida;0;0;1;0;2;2;0;1
+A leira que está a carón daquel cuberto está *.;partida;partido;1;0;0;0;2;2;0;1
+As leiras que están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;2;2;0;1
+Os agros que están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;2;2;0;1
+O prado que desde hai xa máis dun ano está a carón daquela casa está *.;partido;partida;0;0;1;0;0;0;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel pendello está *.;partida;partido;1;0;0;0;0;0;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;0;0;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;0;0;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela casa está *.;partido;partida;0;0;1;0;1;0;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel pendello está *.;partida;partido;1;0;0;0;1;0;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;1;0;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;1;0;1;1
+O agro que desde hai xa máis dun ano está a carón daquela casa está *.;partido;partida;0;0;1;0;2;0;1;1
+A leira que desde hai xa máis dun ano está a carón daquel pendello está *.;partida;partido;1;0;0;0;2;0;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles pendellos están *.;partidas;partidos;1;1;0;1;2;0;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas casas están *.;partidos;partidas;0;1;1;1;2;0;1;1
+O prado que desde hai xa máis dun ano está a carón daquela vivenda está *.;partido;partida;0;0;1;0;0;1;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel alpendre está *.;partida;partido;1;0;0;0;0;1;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;0;1;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;0;1;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela vivenda está *.;partido;partida;0;0;1;0;1;1;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel alpendre está *.;partida;partido;1;0;0;0;1;1;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;1;1;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;1;1;1;1
+O agro que desde hai xa máis dun ano está a carón daquela vivenda está *.;partido;partida;0;0;1;0;2;1;1;1
+A leira que desde hai xa máis dun ano está a carón daquel alpendre está *.;partida;partido;1;0;0;0;2;1;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles alpendres están *.;partidas;partidos;1;1;0;1;2;1;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas vivendas están *.;partidos;partidas;0;1;1;1;2;1;1;1
+O prado que desde hai xa máis dun ano está a carón daquela edificación está *.;partido;partida;0;0;1;0;0;2;1;1
+A veiga que desde hai xa máis dun ano está a carón daquel cuberto está *.;partida;partido;1;0;0;0;0;2;1;1
+As veigas que desde hai xa máis dun ano están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;0;2;1;1
+Os prados que desde hai xa máis dun ano están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;0;2;1;1
+O pasto que desde hai xa máis dun ano está a carón daquela edificación está *.;partido;partida;0;0;1;0;1;2;1;1
+A varcia que desde hai xa máis dun ano está a carón daquel cuberto está *.;partida;partido;1;0;0;0;1;2;1;1
+As varcias que desde hai xa máis dun ano están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;1;2;1;1
+Os pastos que desde hai xa máis dun ano están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;1;2;1;1
+O agro que desde hai xa máis dun ano está a carón daquela edificación está *.;partido;partida;0;0;1;0;2;2;1;1
+A leira que desde hai xa máis dun ano está a carón daquel cuberto está *.;partida;partido;1;0;0;0;2;2;1;1
+As leiras que desde hai xa máis dun ano están a carón daqueles cubertos están *.;partidas;partidos;1;1;0;1;2;2;1;1
+Os agros que desde hai xa máis dun ano están a carón daquelas edificacións están *.;partidos;partidas;0;1;1;1;2;2;1;1
+O tamaño dos prados que están aquí cerca é *.;medio;media;0;0;9;9;0;9;0;0
+O tamaño e o prezo dos prados que están aquí cerca son *.;medios;medias;0;1;9;9;0;9;0;0
+A área dos prados que están aquí cerca é *.;media;medio;1;0;9;9;0;9;0;0
+A área e a rendibilidade dos prados que están aquí cerca son *.;medias;medios;1;1;9;9;0;9;0;0
+O número de ferrados dos prados que están aquí cerca é *.;medio;media;0;0;9;9;1;9;0;0
+O número de ferrados e o alugueiro dos prados que están aquí cerca son *.;medios;medias;0;1;9;9;1;9;0;0
+A cantidade de áreas dos prados que están aquí cerca é *.;media;medio;1;0;9;9;1;9;0;0
+A cantidade de áreas e a renda dos prados que están aquí cerca son *.;medias;medios;1;1;9;9;1;9;0;0
+O total de metros cadrados dos prados que están aquí cerca é *.;medio;media;0;0;9;9;2;9;0;0
+O total de metros cadrados ou de hectáreas dos prados que están aquí cerca son *.;medios;medias;0;1;9;9;2;9;0;0
+A extensión dos prados que están aquí cerca é *.;media;medio;1;0;9;9;2;9;0;0
+A extensión e a calidade dos prados que están aquí cerca son *.;medias;medios;1;1;9;9;2;9;0;0
+O tamaño dos prados que desde hai xa máis dun ano están aquí cerca é *.;medio;media;0;0;9;9;0;9;1;0
+O tamaño e o prezo dos prados que desde hai xa máis dun ano están aquí cerca son *.;medios;medias;0;1;9;9;0;9;1;0
+A área e a rendibilidade dos prados que desde hai xa máis dun ano están aquí cerca son *.;medias;medios;1;1;9;9;0;9;1;0
+A área dos prados que desde hai xa máis dun ano están aquí cerca é *.;media;medio;1;0;9;9;0;9;1;0
+O número de ferrados dos prados que desde hai xa máis dun ano están aquí cerca é *.;medio;media;0;0;9;9;1;9;1;0
+O número de ferrados e o alugueiro dos prados que desde hai xa máis dun ano están aquí cerca son *.;medios;medias;0;1;9;9;1;9;1;0
+A cantidade de áreas dos prados que desde hai xa máis dun ano están aquí cerca é *.;media;medio;1;0;9;9;1;9;1;0
+A cantidade de áreas e a renda dos prados que desde hai xa máis dun ano están aquí cerca son *.;medias;medios;1;1;9;9;1;9;1;0
+O total de metros cadrados dos prados que desde hai xa máis dun ano están aquí cerca é *.;medio;media;0;0;9;9;2;9;1;0
+O total de metros cadrados ou de hectáreas dos prados que desde hai xa máis dun ano están aquí cerca son *.;medios;medias;0;1;9;9;2;9;1;0
+A extensión dos prados que desde hai xa máis dun ano están aquí cerca é *.;media;medio;1;0;9;9;2;9;1;0
+A extensión e a calidade dos prados que desde hai xa máis dun ano están aquí cerca son *.;medias;medios;1;1;9;9;2;9;1;0
+O tamaño dos prados que están a carón daquela casa é *.;medio;media;0;0;1;0;0;0;0;1
+A área dos prados que están a carón daquel pendello é *.;media;medio;1;0;0;0;0;0;0;1
+A área e a rendibilidade dos prados que están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;0;0;0;1
+O tamaño e o prezo dos prados que están a carón daquelas casas son *.;medios;medias;0;1;1;1;0;0;0;1
+O número de ferrados dos prados que están a carón daquela casa é *.;medio;media;0;0;1;0;1;0;0;1
+A cantidade de áreas dos prados que están a carón daquel pendello é *.;media;medio;1;0;0;0;1;0;0;1
+A cantidade de áreas e a renda dos prados que están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;1;0;0;1
+O número de ferrados e o alugueiro dos prados que están a carón daquelas casas son *.;medios;medias;0;1;1;1;1;0;0;1
+O total de metros cadrados dos prados que están a carón daquela casa é *.;medio;media;0;0;1;0;2;0;0;1
+A extensión dos prados que están a carón daquel pendello é *.;media;medio;1;0;0;0;2;0;0;1
+A extensión e a calidade dos prados que están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;2;0;0;1
+O total de metros cadrados ou de hectáreas dos prados que están a carón daquelas casas son *.;medios;medias;0;1;1;1;2;0;0;1
+O tamaño dos prados que están a carón daquela vivenda é *.;medio;media;0;0;1;0;0;1;0;1
+A área dos prados que están a carón daquel alpendre é *.;media;medio;1;0;0;0;0;1;0;1
+A área e a rendibilidade dos prados que están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;0;1;0;1
+O tamaño e o prezo dos prados que están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;0;1;0;1
+O número de ferrados dos prados que están a carón daquela vivenda é *.;medio;media;0;0;1;0;1;1;0;1
+A cantidade de áreas dos prados que están a carón daquel alpendre é *.;media;medio;1;0;0;0;1;1;0;1
+A cantidade de áreas e a renda dos prados que están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;1;1;0;1
+O número de ferrados e o alugueiro dos prados que están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;1;1;0;1
+O total de metros cadrados dos prados que están a carón daquela vivenda é *.;medio;media;0;0;1;0;2;1;0;1
+A extensión dos prados que están a carón daquel alpendre é *.;media;medio;1;0;0;0;2;1;0;1
+A extensión e a calidade dos prados que están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;2;1;0;1
+O total de metros cadrados ou de hectáreas dos prados que están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;2;1;0;1
+O tamaño dos prados que están a carón daquela edificación é *.;medio;media;0;0;1;0;0;2;0;1
+A área dos prados que están a carón daquel cuberto é *.;media;medio;1;0;0;0;0;2;0;1
+A área e a rendibilidade dos prados que están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;0;2;0;1
+O tamaño e o prezo dos prados que están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;0;2;0;1
+O número de ferrados dos prados que están a carón daquela edificación é *.;medio;media;0;0;1;0;1;2;0;1
+A cantidade de áreas dos prados que están a carón daquel cuberto é *.;media;medio;1;0;0;0;1;2;0;1
+A cantidade de áreas e a renda dos prados que están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;1;2;0;1
+O número de ferrados e o alugueiro dos prados que están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;1;2;0;1
+O total de metros cadrados dos prados que están a carón daquela edificación é *.;medio;media;0;0;1;0;2;2;0;1
+A extensión dos prados que están a carón daquel cuberto é *.;media;medio;1;0;0;0;2;2;0;1
+A extensión e a calidade dos prados que están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;2;2;0;1
+O total de metros cadrados ou de hectáreas dos prados que están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;2;2;0;1
+O tamaño dos prados que desde hai xa máis dun ano están a carón daquela casa é *.;medio;media;0;0;1;0;0;0;1;1
+A área dos prados que desde hai xa máis dun ano están a carón daquel pendello é *.;media;medio;1;0;0;0;0;0;1;1
+A área e a rendibilidade dos prados que desde hai xa máis dun ano están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;0;0;1;1
+O tamaño e o prezo dos prados que desde hai xa máis dun ano están a carón daquelas casas son *.;medios;medias;0;1;1;1;0;0;1;1
+O número de ferrados dos prados que desde hai xa máis dun ano están a carón daquela casa é *.;medio;media;0;0;1;0;1;0;1;1
+A cantidade de áreas dos prados que desde hai xa máis dun ano están a carón daquel pendello é *.;media;medio;1;0;0;0;1;0;1;1
+A cantidade de áreas e a renda dos prados que desde hai xa máis dun ano están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;1;0;1;1
+O número de ferrados e o alugueiro dos prados que desde hai xa máis dun ano están a carón daquelas casas son *.;medios;medias;0;1;1;1;1;0;1;1
+O total de metros cadrados dos prados que desde hai xa máis dun ano están a carón daquela casa é *.;medio;media;0;0;1;0;2;0;1;1
+A extensión dos prados que desde hai xa máis dun ano están a carón daquel pendello é *.;media;medio;1;0;0;0;2;0;1;1
+A extensión e a calidade dos prados que desde hai xa máis dun ano están a carón daqueles pendellos son *.;medias;medios;1;1;0;1;2;0;1;1
+O total de metros cadrados ou de hectáreas dos prados que desde hai xa máis dun ano están a carón daquelas casas son *.;medios;medias;0;1;1;1;2;0;1;1
+O tamaño dos prados que desde hai xa máis dun ano están a carón daquela vivenda é *.;medio;media;0;0;1;0;0;1;1;1
+A área dos prados que desde hai xa máis dun ano están a carón daquel alpendre é *.;media;medio;1;0;0;0;0;1;1;1
+A área e a rendibilidade dos prados que desde hai xa máis dun ano están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;0;1;1;1
+O tamaño e o prezo dos prados que desde hai xa máis dun ano están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;0;1;1;1
+O número de ferrados dos prados que desde hai xa máis dun ano están a carón daquela vivenda é *.;medio;media;0;0;1;0;1;1;1;1
+A cantidade de áreas dos prados que desde hai xa máis dun ano están a carón daquel alpendre é *.;media;medio;1;0;0;0;1;1;1;1
+A cantidade de áreas e a renda dos prados que desde hai xa máis dun ano están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;1;1;1;1
+O número de ferrados e o alugueiro dos prados que desde hai xa máis dun ano están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;1;1;1;1
+O total de metros cadrados dos prados que desde hai xa máis dun ano están a carón daquela vivenda é *.;medio;media;0;0;1;0;2;1;1;1
+A extensión dos prados que desde hai xa máis dun ano están a carón daquel alpendre é *.;media;medio;1;0;0;0;2;1;1;1
+A extensión e a calidade dos prados que desde hai xa máis dun ano están a carón daqueles alpendres son *.;medias;medios;1;1;0;1;2;1;1;1
+O total de metros cadrados ou de hectáreas dos prados que desde hai xa máis dun ano están a carón daquelas vivendas son *.;medios;medias;0;1;1;1;2;1;1;1
+O tamaño dos prados que desde hai xa máis dun ano están a carón daquela edificación é *.;medio;media;0;0;1;0;0;2;1;1
+A área dos prados que desde hai xa máis dun ano están a carón daquel cuberto é *.;media;medio;1;0;0;0;0;2;1;1
+A área e a rendibilidade dos prados que desde hai xa máis dun ano están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;0;2;1;1
+O tamaño e o prezo dos prados que desde hai xa máis dun ano están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;0;2;1;1
+O número de ferrados dos prados que desde hai xa máis dun ano están a carón daquela edificación é *.;medio;media;0;0;1;0;1;2;1;1
+A cantidade de áreas dos prados que desde hai xa máis dun ano están a carón daquel cuberto é *.;media;medio;1;0;0;0;1;2;1;1
+A cantidade de áreas e a renda dos prados que desde hai xa máis dun ano están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;1;2;1;1
+O número de ferrados e o alugueiro dos prados que desde hai xa máis dun ano están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;1;2;1;1
+O total de metros cadrados dos prados que desde hai xa máis dun ano están a carón daquela edificación é *.;medio;media;0;0;1;0;2;2;1;1
+A extensión dos prados que desde hai xa máis dun ano están a carón daquel cuberto é *.;media;medio;1;0;0;0;2;2;1;1
+A extensión e a calidade dos prados que desde hai xa máis dun ano están a carón daqueles cubertos son *.;medias;medios;1;1;0;1;2;2;1;1
+O total de metros cadrados ou de hectáreas dos prados que desde hai xa máis dun ano están a carón daquelas edificacións son *.;medios;medias;0;1;1;1;2;2;1;1
+O texto que decidimos colocar está *.;escrito;escrita;0;0;9;9;0;9;0;0
+Os textos que decidimos colocar están *.;escritos;escritas;0;1;9;9;0;9;0;0
+A figura que decidimos colocar está *.;escrita;escrito;1;0;9;9;0;9;0;0
+As figuras que decidimos colocar están *.;escritas;escritos;1;1;9;9;0;9;0;0
+O documento que decidimos colocar está *.;escrito;escrita;0;0;9;9;1;9;0;0
+Os documentos que decidimos colocar están *.;escritos;escritas;0;1;9;9;1;9;0;0
+A imaxe que decidimos colocar está *.;escrita;escrito;1;0;9;9;1;9;0;0
+As imaxes que decidimos colocar están *.;escritas;escritos;1;1;9;9;1;9;0;0
+O fragmento que decidimos colocar está *.;escrito;escrita;0;0;9;9;2;9;0;0
+Os fragmentos que decidimos colocar están *.;escritos;escritas;0;1;9;9;2;9;0;0
+A gráfica que decidimos colocar está *.;escrita;escrito;1;0;9;9;2;9;0;0
+As gráficas que decidimos colocar están *.;escritas;escritos;1;1;9;9;2;9;0;0
+O texto que despois dun longo e profundo debate decidimos colocar está *.;escrito;escrita;0;0;9;9;0;9;1;0
+Os textos que despois dun longo e profundo debate decidimos colocar están *.;escritos;escritas;0;1;9;9;0;9;1;0
+As figuras que despois dun longo e profundo debate decidimos colocar están *.;escritas;escritos;1;1;9;9;0;9;1;0
+A figura que despois dun longo e profundo debate decidimos colocar está *.;escrita;escrito;1;0;9;9;0;9;1;0
+O documento que despois dun longo e profundo debate decidimos colocar está *.;escrito;escrita;0;0;9;9;1;9;1;0
+Os documentos que despois dun longo e profundo debate decidimos colocar están *.;escritos;escritas;0;1;9;9;1;9;1;0
+A imaxe que despois dun longo e profundo debate decidimos colocar está *.;escrita;escrito;1;0;9;9;1;9;1;0
+As imaxes que despois dun longo e profundo debate decidimos colocar están *.;escritas;escritos;1;1;9;9;1;9;1;0
+O fragmento que despois dun longo e profundo debate decidimos colocar está *.;escrito;escrita;0;0;9;9;2;9;1;0
+Os fragmentos que despois dun longo e profundo debate decidimos colocar están *.;escritos;escritas;0;1;9;9;2;9;1;0
+A gráfica que despois dun longo e profundo debate decidimos colocar está *.;escrita;escrito;1;0;9;9;2;9;1;0
+As gráficas que despois dun longo e profundo debate decidimos colocar están *.;escritas;escritos;1;1;9;9;2;9;1;0
+O texto que decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;0;0;0;1
+A figura que decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;0;0;0;1
+As figuras que decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;0;0;0;1
+Os textos que decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;0;0;0;1
+O documento que decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;1;0;0;1
+A imaxe que decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;1;0;0;1
+As imaxes que decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;1;0;0;1
+Os documentos que decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;1;0;0;1
+O fragmento que decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;2;0;0;1
+A gráfica que decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;2;0;0;1
+As gráficas que decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;2;0;0;1
+Os fragmentos que decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;2;0;0;1
+O texto que decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;0;1;0;1
+A figura que decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;0;1;0;1
+As figuras que decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;0;1;0;1
+Os textos que decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;0;1;0;1
+O documento que decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;1;1;0;1
+A imaxe que decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;1;1;0;1
+As imaxes que decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;1;1;0;1
+Os documentos que decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;1;1;0;1
+O fragmento que decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;2;1;0;1
+A gráfica que decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;2;1;0;1
+As gráficas que decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;2;1;0;1
+Os fragmentos que decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;2;1;0;1
+O texto que decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;0;2;0;1
+A figura que decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;0;2;0;1
+As figuras que decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;0;2;0;1
+Os textos que decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;0;2;0;1
+O documento que decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;1;2;0;1
+A imaxe que decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;1;2;0;1
+As imaxes que decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;1;2;0;1
+Os documentos que decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;1;2;0;1
+O fragmento que decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;2;2;0;1
+A gráfica que decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;2;2;0;1
+As gráficas que decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;2;2;0;1
+Os fragmentos que decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;2;2;0;1
+O texto que despois dun longo e profundo debate decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;0;0;1;1
+A figura que despois dun longo e profundo debate decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;0;0;1;1
+As figuras que despois dun longo e profundo debate decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;0;0;1;1
+Os textos que despois dun longo e profundo debate decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;0;0;1;1
+O documento que despois dun longo e profundo debate decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;1;0;1;1
+A imaxe que despois dun longo e profundo debate decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;1;0;1;1
+As imaxes que despois dun longo e profundo debate decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;1;0;1;1
+Os documentos que despois dun longo e profundo debate decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;1;0;1;1
+O fragmento que despois dun longo e profundo debate decidimos colocar na carta está *.;escrito;escrita;0;0;1;0;2;0;1;1
+A gráfica que despois dun longo e profundo debate decidimos colocar no proxecto está *.;escrita;escrito;1;0;0;0;2;0;1;1
+As gráficas que despois dun longo e profundo debate decidimos colocar nos proxectos están *.;escritas;escritos;1;1;0;1;2;0;1;1
+Os fragmentos que despois dun longo e profundo debate decidimos colocar nas cartas están *.;escritos;escritas;0;1;1;1;2;0;1;1
+O texto que despois dun longo e profundo debate decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;0;1;1;1
+A figura que despois dun longo e profundo debate decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;0;1;1;1
+As figuras que despois dun longo e profundo debate decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;0;1;1;1
+Os textos que despois dun longo e profundo debate decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;0;1;1;1
+O documento que despois dun longo e profundo debate decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;1;1;1;1
+A imaxe que despois dun longo e profundo debate decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;1;1;1;1
+As imaxes que despois dun longo e profundo debate decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;1;1;1;1
+Os documentos que despois dun longo e profundo debate decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;1;1;1;1
+O fragmento que despois dun longo e profundo debate decidimos colocar na memoria está *.;escrito;escrita;0;0;1;0;2;1;1;1
+A gráfica que despois dun longo e profundo debate decidimos colocar no bosquexo está *.;escrita;escrito;1;0;0;0;2;1;1;1
+As gráficas que despois dun longo e profundo debate decidimos colocar nos bosquexos están *.;escritas;escritos;1;1;0;1;2;1;1;1
+Os fragmentos que despois dun longo e profundo debate decidimos colocar nas memorias están *.;escritos;escritas;0;1;1;1;2;1;1;1
+O texto que despois dun longo e profundo debate decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;0;2;1;1
+A figura que despois dun longo e profundo debate decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;0;2;1;1
+As figuras que despois dun longo e profundo debate decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;0;2;1;1
+Os textos que despois dun longo e profundo debate decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;0;2;1;1
+O documento que despois dun longo e profundo debate decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;1;2;1;1
+A imaxe que despois dun longo e profundo debate decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;1;2;1;1
+As imaxes que despois dun longo e profundo debate decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;1;2;1;1
+Os documentos que despois dun longo e profundo debate decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;1;2;1;1
+O fragmento que despois dun longo e profundo debate decidimos colocar na tese está *.;escrito;escrita;0;0;1;0;2;2;1;1
+A gráfica que despois dun longo e profundo debate decidimos colocar no esbozo está *.;escrita;escrito;1;0;0;0;2;2;1;1
+As gráficas que despois dun longo e profundo debate decidimos colocar nos esbozos están *.;escritas;escritos;1;1;0;1;2;2;1;1
+Os fragmentos que despois dun longo e profundo debate decidimos colocar nas teses están *.;escritos;escritas;0;1;1;1;2;2;1;1
+O plan que se deseñou anteriormente é *.;diverso;diversa;0;0;9;9;0;9;0;0
+Os plans que se deseñaron anteriormente son *.;diversos;diversas;0;1;9;9;0;9;0;0
+A metodoloxía que se deseñou anteriormente é *.;diversa;diverso;1;0;9;9;0;9;0;0
+As metodoloxías que se deseñaron anteriormente son *.;diversas;diversos;1;1;9;9;0;9;0;0
+O método que se deseñou anteriormente é *.;diverso;diversa;0;0;9;9;1;9;0;0
+Os métodos que se deseñaron anteriormente son *.;diversos;diversas;0;1;9;9;1;9;0;0
+A proposta que se deseñou anteriormente é *.;diversa;diverso;1;0;9;9;1;9;0;0
+As propostas que se deseñaron anteriormente son *.;diversas;diversos;1;1;9;9;1;9;0;0
+O proceso que se deseñou anteriormente é *.;diverso;diversa;0;0;9;9;2;9;0;0
+Os procesos que se deseñaron anteriormente son *.;diversos;diversas;0;1;9;9;2;9;0;0
+A plataforma que se deseñou anteriormente é *.;diversa;diverso;1;0;9;9;2;9;0;0
+As plataformas que se deseñaron anteriormente son *.;diversas;diversos;1;1;9;9;2;9;0;0
+O plan que froito dun bo e rigoroso traballo se deseñou así é *.;diverso;diversa;0;0;9;9;0;9;1;0
+Os plans que froito dun bo e rigoroso traballo se deseñaron así son *.;diversos;diversas;0;1;9;9;0;9;1;0
+As metodoloxías que froito dun bo e rigoroso traballo se deseñaron así son *.;diversas;diversos;1;1;9;9;0;9;1;0
+A metodoloxía que froito dun bo e rigoroso traballo se deseñou así é *.;diversa;diverso;1;0;9;9;0;9;1;0
+O método que froito dun bo e rigoroso traballo se deseñou así é *.;diverso;diversa;0;0;9;9;1;9;1;0
+Os métodos que froito dun bo e rigoroso traballo se deseñaron así son *.;diversos;diversas;0;1;9;9;1;9;1;0
+A proposta que froito dun bo e rigoroso traballo se deseñou así é *.;diversa;diverso;1;0;9;9;1;9;1;0
+As propostas que froito dun bo e rigoroso traballo se deseñaron así son *.;diversas;diversos;1;1;9;9;1;9;1;0
+O proceso que froito dun bo e rigoroso traballo se deseñou así é *.;diverso;diversa;0;0;9;9;2;9;1;0
+Os procesos que froito dun bo e rigoroso traballo se deseñaron así son *.;diversos;diversas;0;1;9;9;2;9;1;0
+A plataforma que froito dun bo e rigoroso traballo se deseñou así é *.;diversa;diverso;1;0;9;9;2;9;1;0
+As plataformas que froito dun bo e rigoroso traballo se deseñaron así son *.;diversas;diversos;1;1;9;9;2;9;1;0
+O plan que se deseñou anteriormente pola enxeñeira é *.;diverso;diversa;0;0;1;0;0;0;0;1
+A metodoloxía que se deseñou anteriormente polo enxeñeiro é *.;diversa;diverso;1;0;0;0;0;0;0;1
+As metodoloxías que se deseñaron anteriormente polos enxeñeiros son *.;diversas;diversos;1;1;0;1;0;0;0;1
+Os plans que se deseñaron anteriormente polas enxeñeiras son *.;diversos;diversas;0;1;1;1;0;0;0;1
+O método que se deseñou anteriormente pola enxeñeira é *.;diverso;diversa;0;0;1;0;1;0;0;1
+A proposta que se deseñou anteriormente polo enxeñeiro é *.;diversa;diverso;1;0;0;0;1;0;0;1
+As propostas que se deseñaron anteriormente polos enxeñeiros son *.;diversas;diversos;1;1;0;1;1;0;0;1
+Os métodos que se deseñaron anteriormente polas enxeñeiras son *.;diversos;diversas;0;1;1;1;1;0;0;1
+O proceso que se deseñou anteriormente pola enxeñeira é *.;diverso;diversa;0;0;1;0;2;0;0;1
+A plataforma que se deseñou anteriormente polo enxeñeiro é *.;diversa;diverso;1;0;0;0;2;0;0;1
+As plataformas que se deseñaron anteriormente polos enxeñeiros son *.;diversas;diversos;1;1;0;1;2;0;0;1
+Os procesos que se deseñaron anteriormente polas enxeñeiras son *.;diversos;diversas;0;1;1;1;2;0;0;1
+O plan que se deseñou anteriormente pola técnica é *.;diverso;diversa;0;0;1;0;0;1;0;1
+A metodoloxía que se deseñou anteriormente polo técnico é *.;diversa;diverso;1;0;0;0;0;1;0;1
+As metodoloxías que se deseñaron anteriormente polos técnicos son *.;diversas;diversos;1;1;0;1;0;1;0;1
+Os plans que se deseñaron anteriormente polas técnicas son *.;diversos;diversas;0;1;1;1;0;1;0;1
+O método que se deseñou anteriormente pola técnica é *.;diverso;diversa;0;0;1;0;1;1;0;1
+A proposta que se deseñou anteriormente polo técnico é *.;diversa;diverso;1;0;0;0;1;1;0;1
+As propostas que se deseñaron anteriormente polos técnicos son *.;diversas;diversos;1;1;0;1;1;1;0;1
+Os métodos que se deseñaron anteriormente polas técnicas son *.;diversos;diversas;0;1;1;1;1;1;0;1
+O proceso que se deseñou anteriormente pola técnica é *.;diverso;diversa;0;0;1;0;2;1;0;1
+A plataforma que se deseñou anteriormente polo técnico é *.;diversa;diverso;1;0;0;0;2;1;0;1
+As plataformas que se deseñaron anteriormente polos técnicos son *.;diversas;diversos;1;1;0;1;2;1;0;1
+Os procesos que se deseñaron anteriormente polas técnicas son *.;diversos;diversas;0;1;1;1;2;1;0;1
+O plan que se deseñou anteriormente pola perita é *.;diverso;diversa;0;0;1;0;0;2;0;1
+A metodoloxía que se deseñou anteriormente polo perito é *.;diversa;diverso;1;0;0;0;0;2;0;1
+As metodoloxías que se deseñaron anteriormente polos peritos son *.;diversas;diversos;1;1;0;1;0;2;0;1
+Os plans que se deseñaron anteriormente polas peritas son *.;diversos;diversas;0;1;1;1;0;2;0;1
+O método que se deseñou anteriormente pola perita é *.;diverso;diversa;0;0;1;0;1;2;0;1
+A proposta que se deseñou anteriormente polo perito é *.;diversa;diverso;1;0;0;0;1;2;0;1
+As propostas que se deseñaron anteriormente polos peritos son *.;diversas;diversos;1;1;0;1;1;2;0;1
+Os métodos que se deseñaron anteriormente polas peritas son *.;diversos;diversas;0;1;1;1;1;2;0;1
+O proceso que se deseñou anteriormente pola perita é *.;diverso;diversa;0;0;1;0;2;2;0;1
+A plataforma que se deseñou anteriormente polo perito é *.;diversa;diverso;1;0;0;0;2;2;0;1
+As plataformas que se deseñaron anteriormente polos peritos son *.;diversas;diversos;1;1;0;1;2;2;0;1
+Os procesos que se deseñaron anteriormente polas peritas son *.;diversos;diversas;0;1;1;1;2;2;0;1
+O plan que froito dun bo e rigoroso traballo se deseñou así pola enxeñeira é *.;diverso;diversa;0;0;1;0;0;0;1;1
+A metodoloxía que froito dun bo e rigoroso traballo se deseñou así polo enxeñeiro é *.;diversa;diverso;1;0;0;0;0;0;1;1
+As metodoloxías que froito dun bo e rigoroso traballo se deseñaron así polos enxeñeiros son *.;diversas;diversos;1;1;0;1;0;0;1;1
+Os plans que froito dun bo e rigoroso traballo se deseñaron así polas enxeñeiras son *.;diversos;diversas;0;1;1;1;0;0;1;1
+O método que froito dun bo e rigoroso traballo se deseñou así pola enxeñeira é *.;diverso;diversa;0;0;1;0;1;0;1;1
+A proposta que froito dun bo e rigoroso traballo se deseñou así polo enxeñeiro é *.;diversa;diverso;1;0;0;0;1;0;1;1
+As propostas que froito dun bo e rigoroso traballo se deseñaron así polos enxeñeiros son *.;diversas;diversos;1;1;0;1;1;0;1;1
+Os métodos que froito dun bo e rigoroso traballo se deseñaron así polas enxeñeiras son *.;diversos;diversas;0;1;1;1;1;0;1;1
+O proceso que froito dun bo e rigoroso traballo se deseñou así pola enxeñeira é *.;diverso;diversa;0;0;1;0;2;0;1;1
+A plataforma que froito dun bo e rigoroso traballo se deseñou así polo enxeñeiro é *.;diversa;diverso;1;0;0;0;2;0;1;1
+As plataformas que froito dun bo e rigoroso traballo se deseñaron así polos enxeñeiros son *.;diversas;diversos;1;1;0;1;2;0;1;1
+Os procesos que froito dun bo e rigoroso traballo se deseñaron así polas enxeñeiras son *.;diversos;diversas;0;1;1;1;2;0;1;1
+O plan que froito dun bo e rigoroso traballo se deseñou así pola técnica é *.;diverso;diversa;0;0;1;0;0;1;1;1
+A metodoloxía que froito dun bo e rigoroso traballo se deseñou así polo técnico é *.;diversa;diverso;1;0;0;0;0;1;1;1
+As metodoloxías que froito dun bo e rigoroso traballo se deseñaron así polos técnicos son *.;diversas;diversos;1;1;0;1;0;1;1;1
+Os plans que froito dun bo e rigoroso traballo se deseñaron así polas técnicas son *.;diversos;diversas;0;1;1;1;0;1;1;1
+O método que froito dun bo e rigoroso traballo se deseñou así pola técnica é *.;diverso;diversa;0;0;1;0;1;1;1;1
+A proposta que froito dun bo e rigoroso traballo se deseñou así polo técnico é *.;diversa;diverso;1;0;0;0;1;1;1;1
+As propostas que froito dun bo e rigoroso traballo se deseñaron así polos técnicos son *.;diversas;diversos;1;1;0;1;1;1;1;1
+Os métodos que froito dun bo e rigoroso traballo se deseñaron así polas técnicas son *.;diversos;diversas;0;1;1;1;1;1;1;1
+O proceso que froito dun bo e rigoroso traballo se deseñou así pola técnica é *.;diverso;diversa;0;0;1;0;2;1;1;1
+A plataforma que froito dun bo e rigoroso traballo se deseñou así polo técnico é *.;diversa;diverso;1;0;0;0;2;1;1;1
+As plataformas que froito dun bo e rigoroso traballo se deseñaron así polos técnicos son *.;diversas;diversos;1;1;0;1;2;1;1;1
+Os procesos que froito dun bo e rigoroso traballo se deseñaron así polas técnicas son *.;diversos;diversas;0;1;1;1;2;1;1;1
+O plan que froito dun bo e rigoroso traballo se deseñou así pola perita é *.;diverso;diversa;0;0;1;0;0;2;1;1
+A metodoloxía que froito dun bo e rigoroso traballo se deseñou así polo perito é *.;diversa;diverso;1;0;0;0;0;2;1;1
+As metodoloxías que froito dun bo e rigoroso traballo se deseñaron así polos peritos son *.;diversas;diversos;1;1;0;1;0;2;1;1
+Os plans que froito dun bo e rigoroso traballo se deseñaron así polas peritas son *.;diversos;diversas;0;1;1;1;0;2;1;1
+O método que froito dun bo e rigoroso traballo se deseñou así pola perita é *.;diverso;diversa;0;0;1;0;1;2;1;1
+A proposta que froito dun bo e rigoroso traballo se deseñou así polo perito é *.;diversa;diverso;1;0;0;0;1;2;1;1
+As propostas que froito dun bo e rigoroso traballo se deseñaron así polos peritos son *.;diversas;diversos;1;1;0;1;1;2;1;1
+Os métodos que froito dun bo e rigoroso traballo se deseñaron así polas peritas son *.;diversos;diversas;0;1;1;1;1;2;1;1
+O proceso que froito dun bo e rigoroso traballo se deseñou así pola perita é *.;diverso;diversa;0;0;1;0;2;2;1;1
+A plataforma que froito dun bo e rigoroso traballo se deseñou así polo perito é *.;diversa;diverso;1;0;0;0;2;2;1;1
+As plataformas que froito dun bo e rigoroso traballo se deseñaron así polos peritos son *.;diversas;diversos;1;1;0;1;2;2;1;1
+Os procesos que froito dun bo e rigoroso traballo se deseñaron así polas peritas son *.;diversos;diversas;0;1;1;1;2;2;1;1
